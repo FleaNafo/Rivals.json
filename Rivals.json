@@ -388,13 +388,111 @@
         }
       },
           "Maul":{
-            "":""
+            "Glorious Maul":{
+          "White Stars":"112508186608582",
+          "Hammer Head":"109108718918990",
+          "Handle":"99290904348126",
+          "Middle Stars":"108603311059388",
+          "Gold":"79706855550186"
+        },
+            "Ice Maul":{
+          "Handle Wrapping":"95012674024549",
+          "Handle":"129793681193665",
+          "Snow":"128731935454741",
+          "Hammer Head":"130149875182994"
+        },
+            "Sleigh Maul":{
+          "Toy Sack":"119970618745896",
+          "Blue Presents":"83641269000066",
+          "Red Bow":"81660566085506",
+          "Green Presents":"74843744938819",
+          "Bow 1":"109923061523858",
+          "Bow 2":"91763372790823",
+          "Blue Body":"131810794602956",
+          "Sleigh Lining":"91423198855767",
+          "Handle and Hammer Head":"127285423832802",
+          "Gold":"132020984767312"
+        }
       },
           "Riot Shield":{
-            "":""
+            "Masterpiece":{
+          "Canvas":"98513160548792",
+          "Handles":"87979963552570",
+          "Frame":"111575925460596",
+          "Wood":"96990627103828"
+        },
+            "Door":{
+          "Door Handle":"129813890606207",
+          "Glass":"86061812005354",
+          "Handles":"131959212396156",
+          "Door":"135766367340729",
+          "Door Frame":"135324480292"
+        },
+            "Glorious Riot Shield":{
+          "White stars":"120042555153706",
+          "Glass":"85833641377972",
+          "Gold":"122975649756676",
+          "Body":"72357075524317",
+          "Handles":"73134531105152"
+        },
+            "Sled":{
+          "Glass":"86061812005354",
+          "Handles":"135651666623016",
+          "Body":"113081537185823"
+        },
+            "Tombstone Shield":{
+          "Body":"132253450604463",
+          "Glass":"133979572840000",
+          "Handles":"99714988660491"
+        },
+            "Energy Shield":{
+          "Body":"97315833820891",
+          "Inner Combs":"116578255482653",
+          "Handle":{
+          "":"88418946578379",
+          "":"112809891504234",
+          "":"75961416802158"
+          }
+        }
       },
           "Scythe":{
-            "":""
+            "Crystal Scythe":{
+          "Body":"70590668793692"
+        },
+            "Keythe":{
+          "Body":"18763296395"
+        },
+            "Anchor":{
+          "Body":"18644424912",
+          "Handle Wrapping":"18644425089"
+        },
+            "Bat Scythe":{
+          "Body":"76012895709797",
+          "Wing":"110793562121905"
+        },
+            "Sakura Scythe":{
+          "Inner Blade":"114562210896715",
+          "Blade And Flowers":"99139197269342",
+          "Body":"109749587275758",
+          "Yellow":"77711083770356"
+        },
+            "Scythe of Death":{
+          "Inner":"17735223954",
+          "Outer":"17735224123"
+        },
+            "Glorious Scythe":{
+          "White Stars":"93385853184989",
+          "Blade Edge":"102192488555371",
+          "Handle And Inner Blade":"139500199931074",
+          "Middle Stars":"110457037009339",
+          "Gold":"81087069075871"
+        },
+            "Cryo Scythe":{
+          "Ice":"99259155505499",
+          "Handle And Blade Edge":"83219618271311",
+          "Handle":"71621961315706",
+          "Inner Blade":"87464788776600"
+        }
       }
     },
           "Utility":{
