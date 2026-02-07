@@ -1,5 +1,5 @@
 {
-  "skyboxes": {
+  "Skyboxes": {
     "Bk": "14147881792",
     "Dn": "14147882149",
     "Ft": "14147882761",
@@ -8,34 +8,34 @@
     "Up": "14147881297"
     
   },
-  "hit / kill sounds": {
-    "body hit": "13110130082",
-    "head hit": [
+  "Hit / Kill Sounds": {
+    "Body Hit": "13110130082",
+    "Head Hit": [
       "16537337310",
       "16537449730"
     ],
-    "kill": [
+    "Kill": [
       "16530229616",
       "16530229541",
       "16530229695"]
   },
   "Hitmarker": {
-          "TL":"13077299416",
-          "TR":"13077309724",
-          "BR":"13077309624",
-          "BL":"13077309526",
+          "Tl":"13077299416",
+          "Tr":"13077309724",
+          "Br":"13077309624",
+          "Bl":"13077309526",
           "Dot":"13061283842"
 },
   "Weapon Skins": {
           "Primary":{
           "Assault Rifle":{
-            "AKEY-47":{
+            "Akey-47":{
           "Body":"125185797615634",
           "Bolt":"112741123615460",
           "Mag":"117623717483653",
           "Mag Lines":"122951013021207"
         },
-            "AUG":{
+            "Aug":{
           "Body":{
           "Bolts":"18687757291",
           "Body":"18687757654",
@@ -49,7 +49,7 @@
           "Body":"18687756685"
           }
         },
-            "Gingerbread AUG":{
+            "Gingerbread Aug":{
           "Body":{
           "Body":"131022132953390",
           "White":"129656038820617",
@@ -80,7 +80,7 @@
           "Body":"118719220040514"
           }
         },
-            "AK-47":{
+            "Ak-47":{
           "Body":{
           "Irons Pt1":"17662005180",
           "Irons Pt2 And Bolts":"17661950733",
@@ -131,7 +131,7 @@
           "Bolt":"87760154549968",
           "Magazine":"101655889903274"
         },
-            "10B Visits":{
+            "10b Visits":{
           "Body":"137502385784703",
           "Bolt":"12613283355",
           "Magazine":"74325154457669"
@@ -315,7 +315,7 @@
           "Body":"13236206914"
           }
         },
-            "FAMAS":{
+            "Famas":{
           "Body":{
           "Body":"122026740478400",
           "Irons And Barrel":"70546766520477",
@@ -427,7 +427,7 @@
           "Gunblade":{
             "":""
       },
-          "RPG":{
+          "Rpg":{
             "":""
       },
           "Shotgun":{
@@ -581,15 +581,15 @@
           "Fists":{
             "Pumpkin Claws":{
           "Pumpkin Teeth":"114195368565223",
-          "Pumpkin Eyes/Nose":"86082044456407",
+          "Pumpkin Eyes/nose":"86082044456407",
           "Arm Band":"124210252259880",
           "Pumpkin Face":"118000300472017"
         },
           "Boxing Gloves": {
-          "LGlove":"17600769561",
-          "LCuff":"17600769743",
-          "RGlove":"17600769859",
-          "RCuff":"17600769956"
+          "Lglove":"17600769561",
+          "Lcuff":"17600769743",
+          "Rglove":"17600769859",
+          "Rcuff":"17600769956"
         },
           "Brass Knuckles": {
           "Body":"18600048536"
@@ -606,7 +606,7 @@
           "Cuff":"116084934350794",
           "Gold":"128920822768315"
         },
-          "Fists of Hurt": {
+          "Fists Of Hurt": {
           "Body":"97443162766444",
           "Spikes":"126610280730585"
         }
@@ -745,7 +745,7 @@
           "Bow 2":"91763372790823",
           "Blue Body":"131810794602956",
           "Sleigh Lining":"91423198855767",
-          "Handle and Hammer Head":"127285423832802",
+          "Handle And Hammer Head":"127285423832802",
           "Gold":"132020984767312"
         }
       },
@@ -764,7 +764,7 @@
           "Door Frame":"135324480292"
         },
             "Glorious Riot Shield":{
-          "White stars":"120042555153706",
+          "White Stars":"120042555153706",
           "Glass":"85833641377972",
           "Gold":"122975649756676",
           "Body":"72357075524317",
@@ -811,7 +811,7 @@
           "Body":"109749587275758",
           "Yellow":"77711083770356"
         },
-            "Scythe of Death":{
+            "Scythe Of Death":{
           "Inner":"17735223954",
           "Outer":"17735224123"
         },
@@ -874,7 +874,7 @@
           "Tubes":"18748272153",
           "Middle Body":"18748271871",
           "Body":"18748271712",
-          "Back and Dial":"18748271556",
+          "Back And Dial":"18748271556",
           "Mag":"18748272022"
         },
             "Gum Ray":{
@@ -1005,7 +1005,7 @@
           "Fluid":"118764666249621"
           }
         },
-            "Bag o' Money":{
+            "Bag O' Money":{
           "Satchel":{
           "Body":"112193488050389",
           "Rope":"136726956197062"
@@ -1094,7 +1094,7 @@
               "Snow":"135712429867142",
               "Nose":"134006920926980",
               "Base":"79969348390807",
-              "Tree and Arms":"76053544956137"
+              "Tree And Arms":"76053544956137"
         },
             "Eyeball":{
               "Iris":"84548221806758",
@@ -1103,8 +1103,8 @@
         },
             "Emoji Cloud":{
               "Middle Tongue":"17769846022",
-              "White Bits(Eyes Teeth)":"17769846601",
-              "Black Bits(Eyes Glasses)":"17769845482",
+              "White Bits(eyes Teeth)":"17769846601",
+              "Black Bits(eyes Glasses)":"17769845482",
               "Faces":"17769846461",
               "Tongue":"17769846266",
               "Body":"17769846790"
@@ -1118,7 +1118,7 @@
         },
             "Megaphone":{
               "Handle":"130258112185740",
-              "Horn/Body":"121639530417018"
+              "Horn/body":"121639530417018"
         },
             "Mammoth Horn":{
               "Body":"96183734898984",
@@ -1142,11 +1142,11 @@
   },
   "Wraps": {
         "Texture Ids": {
-          ".dll":"107259384430822",
-          ".exe":"71439736099130",
-          "1BVisits":"121615997717548",
-          "2025Wrapping":"83515541130518",
-          "2026Wrapping":"119344076153316",
+          ".Dll":"107259384430822",
+          ".Exe":"71439736099130",
+          "1bvisits":"121615997717548",
+          "2025wrapping":"83515541130518",
+          "2026wrapping":"119344076153316",
           "Accretion2":"17598838173",
           "Accretion3":"17598838173",
           "Antimatter1":"87472982302531",
@@ -1157,27 +1157,27 @@
           "Aurora":"133150796121000",
           "Aurum":"117108890999295",
           "Bee1":"80902131288673",
-          "BlackOpal":"107526026465844",
+          "Blackopal":"107526026465844",
           "Blaze1":"17836985524",
-          "BlushWrapping":"127753437423503",
+          "Blushwrapping":"127753437423503",
           "Bombastic1":"114738042640688",
           "Bubbles":"124796745676624",
           "Candle_1":"117509622720492",
-          "CandyGlossy":"10056026824",
-          "CanedWrapping":"87518999729686",
-          "CarbonWrapping":"104929977176000",
+          "Candyglossy":"10056026824",
+          "Canedwrapping":"87518999729686",
+          "Carbonwrapping":"104929977176000",
           "Cardboard1":"80590591696455",
           "Celestial":"117357984162814",
           "Celtic":"117602490973206",
-          "Chilled_Wrapping_1":"122456453206982",
-          "Cold_Metal_1":"82785253755914",
-          "CremeWrapping":"74202947476659",
-          "CrimsonArt1":"101211127444338",
+          "Chilled_wrapping_1":"122456453206982",
+          "Cold_metal_1":"82785253755914",
+          "Cremewrapping":"74202947476659",
+          "Crimsonart1":"101211127444338",
           "Crystallized":"128510495623128",
           "Danger1":"10056026824",
-          "DarkArena1":"7658055825",
-          "DarkMatter (Broken)":"117357984162814",
-          "DarkMesh":"135989547473439",
+          "Darkarena1":"7658055825",
+          "Darkmatter (Broken)":"117357984162814",
+          "Darkmesh":"135989547473439",
           "Dawn1":"10056026824",
           "Devourer":"82785253755914",
           "Disco":"17590398130",
@@ -1190,62 +1190,62 @@
           "Fire":"18154887724",
           "Fracture1":"90981213127249",
           "Frigid":"103002091349038",
-          "FrostyWrapping":"104929977176000",
+          "Frostywrapping":"104929977176000",
           "Gingerbread":"91231411635201",
           "Glamour":"113472237340372",
-          "GooStudsG":"16144957841",
-          "GooWelds":"18445890274",
-          "GreenSparkle1":"119918322703800",
+          "Goostudsg":"16144957841",
+          "Goowelds":"18445890274",
+          "Greensparkle1":"119918322703800",
           "Greenflame1":"17836985524",
           "Gunmetal":"76556449465721",
-          "Holly_Wrapping_1":"127753437423503",
-          "HologramArena1":"76766225253745",
+          "Holly_wrapping_1":"127753437423503",
+          "Hologramarena1":"76766225253745",
           "Honey1":"17591803674",
           "Igneous":"134220640256348",
-          "IndigoSparkle1":"119918322703800",
-          "Indigo_Wrapping_1":"74202947476659",
+          "Indigosparkle1":"119918322703800",
+          "Indigo_wrapping_1":"74202947476659",
           "Inlets":"16144958110",
           "Iridescent1":"117194291647291",
-          "JollyWrapping":"122456453206982",
-          "LightMesh":"135989547473439",
+          "Jollywrapping":"122456453206982",
+          "Lightmesh":"135989547473439",
           "Lightning":"84041245562305",
           "Limefire1":"123698579282998",
-          "LovelyLeopard1":"91479536716200",
+          "Lovelyleopard1":"91479536716200",
           "Luxe_1":"90981213127249",
           "Luxurious":"107232540859220",
-          "MISSING_WRAP":"120578061586581",
+          "Missing_wrap":"120578061586581",
           "Magma":"17584073523",
           "Magnetite":"126857495005467",
           "Messis1":"99469469387194",
-          "MintChocoChip1":"106875590029410",
-          "MintyWrapping":"74202947476659",
+          "Mintchocochip1":"106875590029410",
+          "Mintywrapping":"74202947476659",
           "Mischief":"17836985524",
           "Money":"120516745997404",
           "Mummy":"113725708722120",
           "Nebula1":"17590258932",
           "Necromancer1":"82785253755914",
-          "NeonLights1":"139619591202299",
+          "Neonlights1":"139619591202299",
           "Noir1":"10056026824",
           "Normal1":"10056026824",
           "Ornament_1":"129850186589193",
-          "Pearly_Wrapping_1":"104929977176000",
+          "Pearly_wrapping_1":"104929977176000",
           "Peridot1":"87500851530348",
           "Peril1":"78512950198698",
           "Pine":"10056026824",
-          "PixelBlight":"98991297335885",
-          "PixelLight1":"98991297335885",
-          "Plaid_Pajama_1":"89514129877461",
+          "Pixelblight":"98991297335885",
+          "Pixellight1":"98991297335885",
+          "Plaid_pajama_1":"89514129877461",
           "Plasma1":"96741650977983",
-          "Polar_Wrapping_1":"104929977176000",
+          "Polar_wrapping_1":"104929977176000",
           "Portal":"10056026824",
           "Quasar":"17833298904",
           "Regal":"10056026824",
-          "Regal_Wrapping_1":"122456453206982k",
+          "Regal_wrapping_1":"122456453206982k",
           "Rift":"100915937881186",
-          "RivalsWrapping":"15375670532",
+          "Rivalswrapping":"15375670532",
           "Scribble1":"112448109089773",
           "Sentinel":"91971148945145",
-          "ShadowInk1":"101211127444338",
+          "Shadowink1":"101211127444338",
           "Slush1":"81429335681434",
           "Snowfall":"94113212016987",
           "Solar2":"111785647214791",
@@ -1255,1384 +1255,1384 @@
           "Studs":"16144957841",
           "Sunset":"76556449465721",
           "Supernova":"17590284970",
-          "TIXWRAP":"71749204057025",
+          "Tixwrap":"71749204057025",
           "Tealur":"139979937140990",
           "Tempest1":"111885284933261",
           "Thunderburst":"133035414483139",
           "Trophy":"18185331121",
           "Tusky_1":"82785253755914",
-          "UltraZed2":"114322324609202",
+          "Ultrazed2":"114322324609202",
           "Universal":"16144958351",
           "Venom":"76556449465721",
           "Vigor1":"78512950198698",
           "Virus1":"86753964590900",
           "Waste1":"10056026824",
           "Water1":"117624745612255",
-          "WinterWrapping":"104929977176000",
-          "Wrapped_Luxury_1":"122456453206982",
-          "Wrapped_Fortune_1":"87518999729686",
-          "epic":"108149221839661"
+          "Winterwrapping":"104929977176000",
+          "Wrapped_luxury_1":"122456453206982",
+          "Wrapped_fortune_1":"87518999729686",
+          "Epic":"108149221839661"
     },
         "Mapping Ids": {
           "A5":{
-            "ColorMap":"17589862803",
-            "MetalnessMap":"17589862765",
-            "NormalMap":"17589862792",
-            "RoughnessMap":"17589862799",
-            "ColorMapContent":"17589862803",
-            "MetalnessMapContent":"17589862765",
-            "NormalMapContent":"17589862792",
-            "RoughnessMapContent":"17589862799"
+            "Colormap":"17589862803",
+            "Metalnessmap":"17589862765",
+            "Normalmap":"17589862792",
+            "Roughnessmap":"17589862799",
+            "Colormapcontent":"17589862803",
+            "Metalnessmapcontent":"17589862765",
+            "Normalmapcontent":"17589862792",
+            "Roughnessmapcontent":"17589862799"
       },
           "Aegis":{
-            "ColorMap":"NA",
-            "MetalnessMap":"100746634314832",
-            "NormalMap":"NA",
-            "RoughnessMap":"128912834378921",
-            "ColorMapContent":"NA",
-            "MetalnessMapContent":"100746634314832",
-            "NormalMapContent":"NA",
-            "RoughnessMapContent":"128912834378921"
+            "Colormap":"na",
+            "Metalnessmap":"100746634314832",
+            "Normalmap":"na",
+            "Roughnessmap":"128912834378921",
+            "Colormapcontent":"na",
+            "Metalnessmapcontent":"100746634314832",
+            "Normalmapcontent":"na",
+            "Roughnessmapcontent":"128912834378921"
       },
           "Amber":{
-            "ColorMap":"17589090322",
-            "MetalnessMap":"17589090247",
-            "NormalMap":"17589090324",
-            "RoughnessMap":"17589090321",
-            "ColorMapContent":"17589090322",
-            "MetalnessMapContent":"17589090247",
-            "NormalMapContent":"17589090324",
-            "RoughnessMapContent":"17589090321"
+            "Colormap":"17589090322",
+            "Metalnessmap":"17589090247",
+            "Normalmap":"17589090324",
+            "Roughnessmap":"17589090321",
+            "Colormapcontent":"17589090322",
+            "Metalnessmapcontent":"17589090247",
+            "Normalmapcontent":"17589090324",
+            "Roughnessmapcontent":"17589090321"
       },
           "Ancient1":{
-            "ColorMap":"18641137812",
-            "MetalnessMap":"18641137597",
-            "NormalMap":"18641137693",
-            "RoughnessMap":"18641137646",
-            "ColorMapContent":"18641137812",
-            "MetalnessMapContent":"18641137597",
-            "NormalMapContent":"18641137693",
-            "RoughnessMapContent":"18641137646"
+            "Colormap":"18641137812",
+            "Metalnessmap":"18641137597",
+            "Normalmap":"18641137693",
+            "Roughnessmap":"18641137646",
+            "Colormapcontent":"18641137812",
+            "Metalnessmapcontent":"18641137597",
+            "Normalmapcontent":"18641137693",
+            "Roughnessmapcontent":"18641137646"
       },
           "Ancient2":{
-            "ColorMap":"18641148677",
-            "MetalnessMap":"18641148588",
-            "NormalMap":"18641148640",
-            "RoughnessMap":"18641148618",
-            "ColorMapContent":"18641148677",
-            "MetalnessMapContent":"18641148588",
-            "NormalMapContent":"18641148640",
-            "RoughnessMapContent":"18641148618"
+            "Colormap":"18641148677",
+            "Metalnessmap":"18641148588",
+            "Normalmap":"18641148640",
+            "Roughnessmap":"18641148618",
+            "Colormapcontent":"18641148677",
+            "Metalnessmapcontent":"18641148588",
+            "Normalmapcontent":"18641148640",
+            "Roughnessmapcontent":"18641148618"
       },
           "Arabesque":{
-            "ColorMap":"17581979496",
-            "MetalnessMap":"17581979410",
-            "NormalMap":"17581979502",
-            "RoughnessMap":"17581979438",
-            "ColorMapContent":"17581979496",
-            "MetalnessMapContent":"17581979410",
-            "NormalMapContent":"17581979502",
-            "RoughnessMapContent":"17581979438"
+            "Colormap":"17581979496",
+            "Metalnessmap":"17581979410",
+            "Normalmap":"17581979502",
+            "Roughnessmap":"17581979438",
+            "Colormapcontent":"17581979496",
+            "Metalnessmapcontent":"17581979410",
+            "Normalmapcontent":"17581979502",
+            "Roughnessmapcontent":"17581979438"
       },
           "Arbiter":{
-            "ColorMap":"70871237792108",
-            "MetalnessMap":"NA",
-            "NormalMap":"83283728034272",
-            "RoughnessMap":"127155693471883",
-            "ColorMapContent":"70871237792108",
-            "MetalnessMapContent":"NA",
-            "NormalMapContent":"83283728034272",
-            "RoughnessMapContent":"127155693471883"
+            "Colormap":"70871237792108",
+            "Metalnessmap":"na",
+            "Normalmap":"83283728034272",
+            "Roughnessmap":"127155693471883",
+            "Colormapcontent":"70871237792108",
+            "Metalnessmapcontent":"na",
+            "Normalmapcontent":"83283728034272",
+            "Roughnessmapcontent":"127155693471883"
       },
           "Arctic Camo":{
-            "ColorMap":"17617543134",
-            "MetalnessMap":"17617542984",
-            "NormalMap":"17617543126",
-            "RoughnessMap":"17617543091",
-            "ColorMapContent":"17617543134",
-            "MetalnessMapContent":"17617542984",
-            "NormalMapContent":"17617543126",
-            "RoughnessMapContent":"17617543091"
+            "Colormap":"17617543134",
+            "Metalnessmap":"17617542984",
+            "Normalmap":"17617543126",
+            "Roughnessmap":"17617543091",
+            "Colormapcontent":"17617543134",
+            "Metalnessmapcontent":"17617542984",
+            "Normalmapcontent":"17617543126",
+            "Roughnessmapcontent":"17617543091"
       },
           "Aurum":{
-            "ColorMap":"17588987919",
-            "MetalnessMap":"17588987499",
-            "NormalMap":"17588987595",
-            "RoughnessMap":"17588987578",
-            "ColorMapContent":"17588987919",
-            "MetalnessMapContent":"17588987499",
-            "NormalMapContent":"17588987595",
-            "RoughnessMapContent":"17588987578"
+            "Colormap":"17588987919",
+            "Metalnessmap":"17588987499",
+            "Normalmap":"17588987595",
+            "Roughnessmap":"17588987578",
+            "Colormapcontent":"17588987919",
+            "Metalnessmapcontent":"17588987499",
+            "Normalmapcontent":"17588987595",
+            "Roughnessmapcontent":"17588987578"
       },
           "Bee":{
-            "ColorMap":"",
-            "MetalnessMap":"100746634314832",
-            "NormalMap":"",
-            "RoughnessMap":"128912834378921",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"100746634314832",
-            "NormalMapContent":"",
-            "RoughnessMapContent":"128912834378921"
+            "Colormap":"",
+            "Metalnessmap":"100746634314832",
+            "Normalmap":"",
+            "Roughnessmap":"128912834378921",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"100746634314832",
+            "Normalmapcontent":"",
+            "Roughnessmapcontent":"128912834378921"
       },
-          "BeeWing":{
-            "ColorMap":"",
-            "MetalnessMap":"100746634314832",
-            "NormalMap":"",
-            "RoughnessMap":"128912834378921",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"100746634314832",
-            "NormalMapContent":"",
-            "RoughnessMapContent":"128912834378921"
+          "Beewing":{
+            "Colormap":"",
+            "Metalnessmap":"100746634314832",
+            "Normalmap":"",
+            "Roughnessmap":"128912834378921",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"100746634314832",
+            "Normalmapcontent":"",
+            "Roughnessmapcontent":"128912834378921"
       },
           "Black Granite":{
-            "ColorMap":"18644778799",
-            "MetalnessMap":"18644779211",
-            "NormalMap":"18644779163",
-            "RoughnessMap":"18644779453",
-            "ColorMapContent":"18644778799",
-            "MetalnessMapContent":"18644779211",
-            "NormalMapContent":"18644779163",
-            "RoughnessMapContent":"18644779453"
+            "Colormap":"18644778799",
+            "Metalnessmap":"18644779211",
+            "Normalmap":"18644779163",
+            "Roughnessmap":"18644779453",
+            "Colormapcontent":"18644778799",
+            "Metalnessmapcontent":"18644779211",
+            "Normalmapcontent":"18644779163",
+            "Roughnessmapcontent":"18644779453"
       },
           "Black Opal":{
-            "ColorMap":"17589042028",
-            "MetalnessMap":"17589041921",
-            "NormalMap":"17589042007",
-            "RoughnessMap":"17589041993",
-            "ColorMapContent":"17589042028",
-            "MetalnessMapContent":"17589041921",
-            "NormalMapContent":"17589042007",
-            "RoughnessMapContent":"17589041993"
+            "Colormap":"17589042028",
+            "Metalnessmap":"17589041921",
+            "Normalmap":"17589042007",
+            "Roughnessmap":"17589041993",
+            "Colormapcontent":"17589042028",
+            "Metalnessmapcontent":"17589041921",
+            "Normalmapcontent":"17589042007",
+            "Roughnessmapcontent":"17589041993"
       },
-          "BlackDamascus":{
-            "ColorMap":"100934374113027",
-            "MetalnessMap":"110268976447969",
-            "NormalMap":"81217178723404",
-            "RoughnessMap":"109726021591376",
-            "ColorMapContent":"100934374113027",
-            "MetalnessMapContent":"110268976447969",
-            "NormalMapContent":"81217178723404",
-            "RoughnessMapContent":"109726021591376"
+          "Blackdamascus":{
+            "Colormap":"100934374113027",
+            "Metalnessmap":"110268976447969",
+            "Normalmap":"81217178723404",
+            "Roughnessmap":"109726021591376",
+            "Colormapcontent":"100934374113027",
+            "Metalnessmapcontent":"110268976447969",
+            "Normalmapcontent":"81217178723404",
+            "Roughnessmapcontent":"109726021591376"
       },
           "Bliss":{
-            "ColorMap":"",
-            "MetalnessMap":"135923263838272",
-            "NormalMap":"137868992090530",
-            "RoughnessMap":"127663527074764",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"135923263838272",
-            "NormalMapContent":"137868992090530",
-            "RoughnessMapContent":"127663527074764"
+            "Colormap":"",
+            "Metalnessmap":"135923263838272",
+            "Normalmap":"137868992090530",
+            "Roughnessmap":"127663527074764",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"135923263838272",
+            "Normalmapcontent":"137868992090530",
+            "Roughnessmapcontent":"127663527074764"
       },
           "Bluesteel":{
-            "ColorMap":"",
-            "MetalnessMap":"106433778543814",
-            "NormalMap":"112082353546886",
-            "RoughnessMap":"116257092607841",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"106433778543814",
-            "NormalMapContent":"112082353546886",
-            "RoughnessMapContent":"116257092607841"
+            "Colormap":"",
+            "Metalnessmap":"106433778543814",
+            "Normalmap":"112082353546886",
+            "Roughnessmap":"116257092607841",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"106433778543814",
+            "Normalmapcontent":"112082353546886",
+            "Roughnessmapcontent":"116257092607841"
       },
           "Brain":{
-            "ColorMap":"17582694510",
-            "MetalnessMap":"17582694482",
-            "NormalMap":"17582694520",
-            "RoughnessMap":"17582694508",
-            "ColorMapContent":"17582694510",
-            "MetalnessMapContent":"17582694482",
-            "NormalMapContent":"17582694520",
-            "RoughnessMapContent":"17582694508"
+            "Colormap":"17582694510",
+            "Metalnessmap":"17582694482",
+            "Normalmap":"17582694520",
+            "Roughnessmap":"17582694508",
+            "Colormapcontent":"17582694510",
+            "Metalnessmapcontent":"17582694482",
+            "Normalmapcontent":"17582694520",
+            "Roughnessmapcontent":"17582694508"
       },
-          "BrushedMetal":{
-            "ColorMap":"18640746828",
-            "MetalnessMap":"18640746450",
-            "NormalMap":"18640746595",
-            "RoughnessMap":"18640746490",
-            "ColorMapContent":"18640746828",
-            "MetalnessMapContent":"18640746450",
-            "NormalMapContent":"18640746595",
-            "RoughnessMapContent":"18640746490"
+          "Brushedmetal":{
+            "Colormap":"18640746828",
+            "Metalnessmap":"18640746450",
+            "Normalmap":"18640746595",
+            "Roughnessmap":"18640746490",
+            "Colormapcontent":"18640746828",
+            "Metalnessmapcontent":"18640746450",
+            "Normalmapcontent":"18640746595",
+            "Roughnessmapcontent":"18640746490"
       },
           "Bunsen":{
-            "ColorMap":"17582812081",
-            "MetalnessMap":"17582812017",
-            "NormalMap":"17582812094",
-            "RoughnessMap":"17582812070",
-            "ColorMapContent":"17582812081",
-            "MetalnessMapContent":"17582812017",
-            "NormalMapContent":"17582812094",
-            "RoughnessMapContent":"17582812070"
+            "Colormap":"17582812081",
+            "Metalnessmap":"17582812017",
+            "Normalmap":"17582812094",
+            "Roughnessmap":"17582812070",
+            "Colormapcontent":"17582812081",
+            "Metalnessmapcontent":"17582812017",
+            "Normalmapcontent":"17582812094",
+            "Roughnessmapcontent":"17582812070"
       },
-          "CandyGlossy":{
-            "ColorMap":"",
-            "MetalnessMap":"135923263838272",
-            "NormalMap":"137868992090530",
-            "RoughnessMap":"127663527074764",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"135923263838272",
-            "NormalMapContent":"137868992090530",
-            "RoughnessMapContent":"127663527074764"
+          "Candyglossy":{
+            "Colormap":"",
+            "Metalnessmap":"135923263838272",
+            "Normalmap":"137868992090530",
+            "Roughnessmap":"127663527074764",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"135923263838272",
+            "Normalmapcontent":"137868992090530",
+            "Roughnessmapcontent":"127663527074764"
       },
           "Carbon Fiber":{
-            "ColorMap":"18644677176",
-            "MetalnessMap":"18644677991",
-            "NormalMap":"18644678897",
-            "RoughnessMap":"18644679075",
-            "ColorMapContent":"18644677176",
-            "MetalnessMapContent":"18644677991",
-            "NormalMapContent":"18644678897",
-            "RoughnessMapContent":"18644679075"
+            "Colormap":"18644677176",
+            "Metalnessmap":"18644677991",
+            "Normalmap":"18644678897",
+            "Roughnessmap":"18644679075",
+            "Colormapcontent":"18644677176",
+            "Metalnessmapcontent":"18644677991",
+            "Normalmapcontent":"18644678897",
+            "Roughnessmapcontent":"18644679075"
       },
           "Cardinal":{
-            "ColorMap":"18654481822",
-            "MetalnessMap":"18654481715",
-            "NormalMap":"18654481815",
-            "RoughnessMap":"18654481774",
-            "ColorMapContent":"18654481822",
-            "MetalnessMapContent":"18654481715",
-            "NormalMapContent":"18654481815",
-            "RoughnessMapContent":"18654481774"
+            "Colormap":"18654481822",
+            "Metalnessmap":"18654481715",
+            "Normalmap":"18654481815",
+            "Roughnessmap":"18654481774",
+            "Colormapcontent":"18654481822",
+            "Metalnessmapcontent":"18654481715",
+            "Normalmapcontent":"18654481815",
+            "Roughnessmapcontent":"18654481774"
       },
           "Carmine":{
-            "ColorMap":"",
-            "MetalnessMap":"74373897563307",
-            "NormalMap":"129009017656218",
-            "RoughnessMap":"119965037739668",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"74373897563307",
-            "NormalMapContent":"129009017656218",
-            "RoughnessMapContent":"119965037739668"
+            "Colormap":"",
+            "Metalnessmap":"74373897563307",
+            "Normalmap":"129009017656218",
+            "Roughnessmap":"119965037739668",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"74373897563307",
+            "Normalmapcontent":"129009017656218",
+            "Roughnessmapcontent":"119965037739668"
       },
           "Carpet":{
-            "ColorMap":"17582274624",
-            "MetalnessMap":"17582274542",
-            "NormalMap":"17582274647",
-            "RoughnessMap":"17582274604",
-            "ColorMapContent":"17582274624",
-            "MetalnessMapContent":"17582274542",
-            "NormalMapContent":"17582274647",
-            "RoughnessMapContent":"17582274604"
+            "Colormap":"17582274624",
+            "Metalnessmap":"17582274542",
+            "Normalmap":"17582274647",
+            "Roughnessmap":"17582274604",
+            "Colormapcontent":"17582274624",
+            "Metalnessmapcontent":"17582274542",
+            "Normalmapcontent":"17582274647",
+            "Roughnessmapcontent":"17582274604"
       },
           "Cheese":{
-            "ColorMap":"114461270121610",
-            "MetalnessMap":"86821129652650",
-            "NormalMap":"102684331973378",
-            "RoughnessMap":"74427389833714",
-            "ColorMapContent":"114461270121610",
-            "MetalnessMapContent":"86821129652650",
-            "NormalMapContent":"102684331973378",
-            "RoughnessMapContent":"74427389833714"
+            "Colormap":"114461270121610",
+            "Metalnessmap":"86821129652650",
+            "Normalmap":"102684331973378",
+            "Roughnessmap":"74427389833714",
+            "Colormapcontent":"114461270121610",
+            "Metalnessmapcontent":"86821129652650",
+            "Normalmapcontent":"102684331973378",
+            "Roughnessmapcontent":"74427389833714"
       },
           "Cheesecloth":{
-            "ColorMap":"84927259026812",
-            "MetalnessMap":"111986030838093",
-            "NormalMap":"111913983285363",
-            "RoughnessMap":"135693340052914",
-            "ColorMapContent":"84927259026812",
-            "MetalnessMapContent":"111986030838093",
-            "NormalMapContent":"111913983285363",
-            "RoughnessMapContent":"135693340052914"
+            "Colormap":"84927259026812",
+            "Metalnessmap":"111986030838093",
+            "Normalmap":"111913983285363",
+            "Roughnessmap":"135693340052914",
+            "Colormapcontent":"84927259026812",
+            "Metalnessmapcontent":"111986030838093",
+            "Normalmapcontent":"111913983285363",
+            "Roughnessmapcontent":"135693340052914"
       },
           "Chrome Webs":{
-            "ColorMap":"",
-            "MetalnessMap":"",
-            "NormalMap":"83028082093331",
-            "RoughnessMap":"72499713279864",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"",
-            "NormalMapContent":"83028082093331",
-            "RoughnessMapContent":"72499713279864"
+            "Colormap":"",
+            "Metalnessmap":"",
+            "Normalmap":"83028082093331",
+            "Roughnessmap":"72499713279864",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"",
+            "Normalmapcontent":"83028082093331",
+            "Roughnessmapcontent":"72499713279864"
       },
           "Circuit":{
-            "ColorMap":"17582840149",
-            "MetalnessMap":"17582840086",
-            "NormalMap":"17582840132",
-            "RoughnessMap":"17582840128",
-            "ColorMapContent":"17582840149",
-            "MetalnessMapContent":"17582840086",
-            "NormalMapContent":"17582840132",
-            "RoughnessMapContent":"17582840128"
+            "Colormap":"17582840149",
+            "Metalnessmap":"17582840086",
+            "Normalmap":"17582840132",
+            "Roughnessmap":"17582840128",
+            "Colormapcontent":"17582840149",
+            "Metalnessmapcontent":"17582840086",
+            "Normalmapcontent":"17582840132",
+            "Roughnessmapcontent":"17582840128"
       },
           "Clamshell":{
-            "ColorMap":"18644509922",
-            "MetalnessMap":"18644509860",
-            "NormalMap":"18644509917",
-            "RoughnessMap":"18644509904",
-            "ColorMapContent":"18644509922",
-            "MetalnessMapContent":"18644509860",
-            "NormalMapContent":"18644509917",
-            "RoughnessMapContent":"18644509904"
+            "Colormap":"18644509922",
+            "Metalnessmap":"18644509860",
+            "Normalmap":"18644509917",
+            "Roughnessmap":"18644509904",
+            "Colormapcontent":"18644509922",
+            "Metalnessmapcontent":"18644509860",
+            "Normalmapcontent":"18644509917",
+            "Roughnessmapcontent":"18644509904"
       },
           "Clouds":{
-            "ColorMap":"17582658005",
-            "MetalnessMap":"17582657925",
-            "NormalMap":"17582657974",
-            "RoughnessMap":"17582657960",
-            "ColorMapContent":"17582658005",
-            "MetalnessMapContent":"17582657925",
-            "NormalMapContent":"17582657974",
-            "RoughnessMapContent":"17582657960"
+            "Colormap":"17582658005",
+            "Metalnessmap":"17582657925",
+            "Normalmap":"17582657974",
+            "Roughnessmap":"17582657960",
+            "Colormapcontent":"17582658005",
+            "Metalnessmapcontent":"17582657925",
+            "Normalmapcontent":"17582657974",
+            "Roughnessmapcontent":"17582657960"
       },
           "Cluster":{
-            "ColorMap":"17589931460",
-            "MetalnessMap":"17589931398",
-            "NormalMap":"17589931459",
-            "RoughnessMap":"17589931453",
-            "ColorMapContent":"17589931460",
-            "MetalnessMapContent":"17589931398",
-            "NormalMapContent":"17589931459",
-            "RoughnessMapContent":"17589931453"
+            "Colormap":"17589931460",
+            "Metalnessmap":"17589931398",
+            "Normalmap":"17589931459",
+            "Roughnessmap":"17589931453",
+            "Colormapcontent":"17589931460",
+            "Metalnessmapcontent":"17589931398",
+            "Normalmapcontent":"17589931459",
+            "Roughnessmapcontent":"17589931453"
       },
           "Cork":{
-            "ColorMap":"18644835018",
-            "MetalnessMap":"18644835090",
-            "NormalMap":"18644835671",
-            "RoughnessMap":"18644835571",
-            "ColorMapContent":"18644835018",
-            "MetalnessMapContent":"18644835090",
-            "NormalMapContent":"18644835671",
-            "RoughnessMapContent":"18644835571"
+            "Colormap":"18644835018",
+            "Metalnessmap":"18644835090",
+            "Normalmap":"18644835671",
+            "Roughnessmap":"18644835571",
+            "Colormapcontent":"18644835018",
+            "Metalnessmapcontent":"18644835090",
+            "Normalmapcontent":"18644835671",
+            "Roughnessmapcontent":"18644835571"
       },
-          "CrimsonArt":{
-            "ColorMap":"",
-            "MetalnessMap":"102956853933457",
-            "NormalMap":"98882627825480",
-            "RoughnessMap":"",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"102956853933457",
-            "NormalMapContent":"98882627825480",
-            "RoughnessMapContent":""
+          "Crimsonart":{
+            "Colormap":"",
+            "Metalnessmap":"102956853933457",
+            "Normalmap":"98882627825480",
+            "Roughnessmap":"",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"102956853933457",
+            "Normalmapcontent":"98882627825480",
+            "Roughnessmapcontent":""
       },
           "Crochet":{
-            "ColorMap":"18644419469",
-            "MetalnessMap":"18644419315",
-            "NormalMap":"18644419461",
-            "RoughnessMap":"18644419391",
-            "ColorMapContent":"18644419469",
-            "MetalnessMapContent":"18644419315",
-            "NormalMapContent":"18644419461",
-            "RoughnessMapContent":"18644419391"
+            "Colormap":"18644419469",
+            "Metalnessmap":"18644419315",
+            "Normalmap":"18644419461",
+            "Roughnessmap":"18644419391",
+            "Colormapcontent":"18644419469",
+            "Metalnessmapcontent":"18644419315",
+            "Normalmapcontent":"18644419461",
+            "Roughnessmapcontent":"18644419391"
       },
           "Crossed":{
-            "ColorMap":"17582603144",
-            "MetalnessMap":"17582603000",
-            "NormalMap":"17582603121",
-            "RoughnessMap":"17582603066",
-            "ColorMapContent":"17582603144",
-            "MetalnessMapContent":"17582603000",
-            "NormalMapContent":"17582603121",
-            "RoughnessMapContent":"17582603066"
+            "Colormap":"17582603144",
+            "Metalnessmap":"17582603000",
+            "Normalmap":"17582603121",
+            "Roughnessmap":"17582603066",
+            "Colormapcontent":"17582603144",
+            "Metalnessmapcontent":"17582603000",
+            "Normalmapcontent":"17582603121",
+            "Roughnessmapcontent":"17582603066"
       },
           "Damascus":{
-            "ColorMap":"",
-            "MetalnessMap":"79480216004456",
-            "NormalMap":"112765890447076",
-            "RoughnessMap":"90143470472297",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"79480216004456",
-            "NormalMapContent":"112765890447076",
-            "RoughnessMapContent":"90143470472297"
+            "Colormap":"",
+            "Metalnessmap":"79480216004456",
+            "Normalmap":"112765890447076",
+            "Roughnessmap":"90143470472297",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"79480216004456",
+            "Normalmapcontent":"112765890447076",
+            "Roughnessmapcontent":"90143470472297"
       },
           "Desert Camo":{
-            "ColorMap":"17617657895",
-            "MetalnessMap":"17617657686",
-            "NormalMap":"17617657849",
-            "RoughnessMap":"17617657790",
-            "ColorMapContent":"17617657895",
-            "MetalnessMapContent":"17617657686",
-            "NormalMapContent":"17617657849",
-            "RoughnessMapContent":"17617657790"
+            "Colormap":"17617657895",
+            "Metalnessmap":"17617657686",
+            "Normalmap":"17617657849",
+            "Roughnessmap":"17617657790",
+            "Colormapcontent":"17617657895",
+            "Metalnessmapcontent":"17617657686",
+            "Normalmapcontent":"17617657849",
+            "Roughnessmapcontent":"17617657790"
       },
           "Developore":{
-            "ColorMap":"121084523633725",
-            "MetalnessMap":"100080364483867",
-            "NormalMap":"",
-            "RoughnessMap":"126387283648784",
-            "ColorMapContent":"121084523633725",
-            "MetalnessMapContent":"100080364483867",
-            "NormalMapContent":"",
-            "RoughnessMapContent":"126387283648784"
+            "Colormap":"121084523633725",
+            "Metalnessmap":"100080364483867",
+            "Normalmap":"",
+            "Roughnessmap":"126387283648784",
+            "Colormapcontent":"121084523633725",
+            "Metalnessmapcontent":"100080364483867",
+            "Normalmapcontent":"",
+            "Roughnessmapcontent":"126387283648784"
       },
           "Diamond":{
-            "ColorMap":"129778812616013",
-            "MetalnessMap":"77112774850148",
-            "NormalMap":"84933012431915",
-            "RoughnessMap":"79680906891064",
-            "ColorMapContent":"1297788126160",
-            "MetalnessMapContent":"77112774850148",
-            "NormalMapContent":"84933012431915",
-            "RoughnessMapContent":"79680906891064"
+            "Colormap":"129778812616013",
+            "Metalnessmap":"77112774850148",
+            "Normalmap":"84933012431915",
+            "Roughnessmap":"79680906891064",
+            "Colormapcontent":"1297788126160",
+            "Metalnessmapcontent":"77112774850148",
+            "Normalmapcontent":"84933012431915",
+            "Roughnessmapcontent":"79680906891064"
       },
           "Digital Camo":{
-            "ColorMap":"17617677593",
-            "MetalnessMap":"17617677516",
-            "NormalMap":"17617677602",
-            "RoughnessMap":"17617677568",
-            "ColorMapContent":"17617677593",
-            "MetalnessMapContent":"17617677516",
-            "NormalMapContent":"17617677602",
-            "RoughnessMapContent":"17617677568"
+            "Colormap":"17617677593",
+            "Metalnessmap":"17617677516",
+            "Normalmap":"17617677602",
+            "Roughnessmap":"17617677568",
+            "Colormapcontent":"17617677593",
+            "Metalnessmapcontent":"17617677516",
+            "Normalmapcontent":"17617677602",
+            "Roughnessmapcontent":"17617677568"
       },
           "Encrypt":{
-            "ColorMap":"18655987724",
-            "MetalnessMap":"18655987573",
-            "NormalMap":"18655987699",
-            "RoughnessMap":"18655987669",
-            "ColorMapContent":"18655987724",
-            "MetalnessMapContent":"18655987573",
-            "NormalMapContent":"18655987699",
-            "RoughnessMapContent":"18655987669"
+            "Colormap":"18655987724",
+            "Metalnessmap":"18655987573",
+            "Normalmap":"18655987699",
+            "Roughnessmap":"18655987669",
+            "Colormapcontent":"18655987724",
+            "Metalnessmapcontent":"18655987573",
+            "Normalmapcontent":"18655987699",
+            "Roughnessmapcontent":"18655987669"
       },
           "Forest Camo":{
-            "ColorMap":"17582313053",
-            "MetalnessMap":"17582312955",
-            "NormalMap":"17582313039",
-            "RoughnessMap":"17582313024",
-            "ColorMapContent":"17582313053",
-            "MetalnessMapContent":"17582312955",
-            "NormalMapContent":"17582313039",
-            "RoughnessMapContent":"17582313024"
+            "Colormap":"17582313053",
+            "Metalnessmap":"17582312955",
+            "Normalmap":"17582313039",
+            "Roughnessmap":"17582313024",
+            "Colormapcontent":"17582313053",
+            "Metalnessmapcontent":"17582312955",
+            "Normalmapcontent":"17582313039",
+            "Roughnessmapcontent":"17582313024"
       },
           "Frankenstein":{
-            "ColorMap":"101666777577078",
-            "MetalnessMap":"96829113203676",
-            "NormalMap":"78472319720365",
-            "RoughnessMap":"75482356552293",
-            "ColorMapContent":"101666777577078",
-            "MetalnessMapContent":"96829113203676",
-            "NormalMapContent":"78472319720365",
-            "RoughnessMapContent":"75482356552293"
+            "Colormap":"101666777577078",
+            "Metalnessmap":"96829113203676",
+            "Normalmap":"78472319720365",
+            "Roughnessmap":"75482356552293",
+            "Colormapcontent":"101666777577078",
+            "Metalnessmapcontent":"96829113203676",
+            "Normalmapcontent":"78472319720365",
+            "Roughnessmapcontent":"75482356552293"
       },
           "Frankenstein Metal":{
-            "ColorMap":"127386926272763",
-            "MetalnessMap":"95749013773619",
-            "NormalMap":"99107150535335",
-            "RoughnessMap":"77725994467558",
-            "ColorMapContent":"127386926272763",
-            "MetalnessMapContent":"95749013773619",
-            "NormalMapContent":"99107150535335",
-            "RoughnessMapContent":"77725994467558"
+            "Colormap":"127386926272763",
+            "Metalnessmap":"95749013773619",
+            "Normalmap":"99107150535335",
+            "Roughnessmap":"77725994467558",
+            "Colormapcontent":"127386926272763",
+            "Metalnessmapcontent":"95749013773619",
+            "Normalmapcontent":"99107150535335",
+            "Roughnessmapcontent":"77725994467558"
       },
           "Frosted":{
-            "ColorMap":"17589378611",
-            "MetalnessMap":"17589378440",
-            "NormalMap":"17589378543",
-            "RoughnessMap":"17589378504",
-            "ColorMapContent":"17589378611",
-            "MetalnessMapContent":"17589378440",
-            "NormalMapContent":"17589378543",
-            "RoughnessMapContent":"17589378504"
+            "Colormap":"17589378611",
+            "Metalnessmap":"17589378440",
+            "Normalmap":"17589378543",
+            "Roughnessmap":"17589378504",
+            "Colormapcontent":"17589378611",
+            "Metalnessmapcontent":"17589378440",
+            "Normalmapcontent":"17589378543",
+            "Roughnessmapcontent":"17589378504"
       },
           "Geometric":{
-            "ColorMap":"",
-            "MetalnessMap":"136514486309332",
-            "NormalMap":"104139592751798",
-            "RoughnessMap":"85642223277021",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"136514486309332",
-            "NormalMapContent":"104139592751798",
-            "RoughnessMapContent":"85642223277021"
+            "Colormap":"",
+            "Metalnessmap":"136514486309332",
+            "Normalmap":"104139592751798",
+            "Roughnessmap":"85642223277021",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"136514486309332",
+            "Normalmapcontent":"104139592751798",
+            "Roughnessmapcontent":"85642223277021"
       },
           "Gingerbread":{
-            "ColorMap":"75296402212409",
-            "MetalnessMap":"86640424600767",
-            "NormalMap":"83774846975719",
-            "RoughnessMap":"74037401725552",
-            "ColorMapContent":"75296402212409",
-            "MetalnessMapContent":"86640424600767",
-            "NormalMapContent":"83774846975719",
-            "RoughnessMapContent":"74037401725552"
+            "Colormap":"75296402212409",
+            "Metalnessmap":"86640424600767",
+            "Normalmap":"83774846975719",
+            "Roughnessmap":"74037401725552",
+            "Colormapcontent":"75296402212409",
+            "Metalnessmapcontent":"86640424600767",
+            "Normalmapcontent":"83774846975719",
+            "Roughnessmapcontent":"74037401725552"
       },
           "Glacier":{
-            "ColorMap":"",
-            "MetalnessMap":"17589037508",
-            "NormalMap":"111635301841049",
-            "RoughnessMap":"",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"17589037508",
-            "NormalMapContent":"111635301841049",
-            "RoughnessMapContent":""
+            "Colormap":"",
+            "Metalnessmap":"17589037508",
+            "Normalmap":"111635301841049",
+            "Roughnessmap":"",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"17589037508",
+            "Normalmapcontent":"111635301841049",
+            "Roughnessmapcontent":""
       },
           "Glamour":{
-            "ColorMap":"",
-            "MetalnessMap":"",
-            "NormalMap":"",
-            "RoughnessMap":"",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"",
-            "NormalMapContent":"",
-            "RoughnessMapContent":""
+            "Colormap":"",
+            "Metalnessmap":"",
+            "Normalmap":"",
+            "Roughnessmap":"",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"",
+            "Normalmapcontent":"",
+            "Roughnessmapcontent":""
       },
           "Glisten":{
-            "ColorMap":"17588939827",
-            "MetalnessMap":"17588939743",
-            "NormalMap":"17588939832",
-            "RoughnessMap":"17588939808",
-            "ColorMapContent":"17588939827",
-            "MetalnessMapContent":"17588939743",
-            "NormalMapContent":"17588939832",
-            "RoughnessMapContent":"17588939808"
+            "Colormap":"17588939827",
+            "Metalnessmap":"17588939743",
+            "Normalmap":"17588939832",
+            "Roughnessmap":"17588939808",
+            "Colormapcontent":"17588939827",
+            "Metalnessmapcontent":"17588939743",
+            "Normalmapcontent":"17588939832",
+            "Roughnessmapcontent":"17588939808"
       },
           "Glossy":{
-            "ColorMap":"17591803719",
-            "MetalnessMap":"17591803633",
-            "NormalMap":"17591803707",
-            "RoughnessMap":"17591803674",
-            "ColorMapContent":"17591803719",
-            "MetalnessMapContent":"17591803633",
-            "NormalMapContent":"17591803707",
-            "RoughnessMapContent":"17591803674"
+            "Colormap":"17591803719",
+            "Metalnessmap":"17591803633",
+            "Normalmap":"17591803707",
+            "Roughnessmap":"17591803674",
+            "Colormapcontent":"17591803719",
+            "Metalnessmapcontent":"17591803633",
+            "Normalmapcontent":"17591803707",
+            "Roughnessmapcontent":"17591803674"
       },
-          "GlossyCandyCane":{
-            "ColorMap":"117095826772081",
-            "MetalnessMap":"119774529660953",
-            "NormalMap":"102216150567057",
-            "RoughnessMap":"73829875126441",
-            "ColorMapContent":"117095826772081",
-            "MetalnessMapContent":"119774529660953",
-            "NormalMapContent":"102216150567057",
-            "RoughnessMapContent":"73829875126441"
+          "Glossycandycane":{
+            "Colormap":"117095826772081",
+            "Metalnessmap":"119774529660953",
+            "Normalmap":"102216150567057",
+            "Roughnessmap":"73829875126441",
+            "Colormapcontent":"117095826772081",
+            "Metalnessmapcontent":"119774529660953",
+            "Normalmapcontent":"102216150567057",
+            "Roughnessmapcontent":"73829875126441"
       },
-          "GlossyCandyCane2":{
-            "ColorMap":"109558771056849",
-            "MetalnessMap":"119774529660953",
-            "NormalMap":"102216150567057",
-            "RoughnessMap":"73829875126441",
-            "ColorMapContent":"109558771056849",
-            "MetalnessMapContent":"119774529660953",
-            "NormalMapContent":"102216150567057",
-            "RoughnessMapContent":"73829875126441"
+          "Glossycandycane2":{
+            "Colormap":"109558771056849",
+            "Metalnessmap":"119774529660953",
+            "Normalmap":"102216150567057",
+            "Roughnessmap":"73829875126441",
+            "Colormapcontent":"109558771056849",
+            "Metalnessmapcontent":"119774529660953",
+            "Normalmapcontent":"102216150567057",
+            "Roughnessmapcontent":"73829875126441"
       },
-          "GlossyGeneric":{
-            "ColorMap":"",
-            "MetalnessMap":"135923263838272",
-            "NormalMap":"137868992090530",
-            "RoughnessMap":"127663527074764",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"135923263838272",
-            "NormalMapContent":"137868992090530",
-            "RoughnessMapContent":"127663527074764"
+          "Glossygeneric":{
+            "Colormap":"",
+            "Metalnessmap":"135923263838272",
+            "Normalmap":"137868992090530",
+            "Roughnessmap":"127663527074764",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"135923263838272",
+            "Normalmapcontent":"137868992090530",
+            "Roughnessmapcontent":"127663527074764"
       },
           "Grass1":{
-            "ColorMap":"18641195221",
-            "MetalnessMap":"18641194933",
-            "NormalMap":"18641195036",
-            "RoughnessMap":"18641194990",
-            "ColorMapContent":"18641195221",
-            "MetalnessMapContent":"18641194933",
-            "NormalMapContent":"18641195036",
-            "RoughnessMapContent":"18641194990"
+            "Colormap":"18641195221",
+            "Metalnessmap":"18641194933",
+            "Normalmap":"18641195036",
+            "Roughnessmap":"18641194990",
+            "Colormapcontent":"18641195221",
+            "Metalnessmapcontent":"18641194933",
+            "Normalmapcontent":"18641195036",
+            "Roughnessmapcontent":"18641194990"
       },
           "Groove":{
-            "ColorMap":"18211690779",
-            "MetalnessMap":"18211690706",
-            "NormalMap":"18211690768",
-            "RoughnessMap":"18211690743",
-            "ColorMapContent":"18211690779",
-            "MetalnessMapContent":"18211690706",
-            "NormalMapContent":"18211690768",
-            "RoughnessMapContent":"18211690743"
+            "Colormap":"18211690779",
+            "Metalnessmap":"18211690706",
+            "Normalmap":"18211690768",
+            "Roughnessmap":"18211690743",
+            "Colormapcontent":"18211690779",
+            "Metalnessmapcontent":"18211690706",
+            "Normalmapcontent":"18211690768",
+            "Roughnessmapcontent":"18211690743"
       },
           "Hammered":{
-            "ColorMap":"",
-            "MetalnessMap":"86420310912076",
-            "NormalMap":"82486611042068",
-            "RoughnessMap":"76413643901253",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"86420310912076",
-            "NormalMapContent":"82486611042068",
-            "RoughnessMapContent":"76413643901253"
+            "Colormap":"",
+            "Metalnessmap":"86420310912076",
+            "Normalmap":"82486611042068",
+            "Roughnessmap":"76413643901253",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"86420310912076",
+            "Normalmapcontent":"82486611042068",
+            "Roughnessmapcontent":"76413643901253"
       },
           "Hesper":{
-            "ColorMap":"17582886345",
-            "MetalnessMap":"17582886313",
-            "NormalMap":"17582886341",
-            "RoughnessMap":"17582886349",
-            "ColorMapContent":"17582886345",
-            "MetalnessMapContent":"17582886313",
-            "NormalMapContent":"17582886341",
-            "RoughnessMapContent":"17582886349"
+            "Colormap":"17582886345",
+            "Metalnessmap":"17582886313",
+            "Normalmap":"17582886341",
+            "Roughnessmap":"17582886349",
+            "Colormapcontent":"17582886345",
+            "Metalnessmapcontent":"17582886313",
+            "Normalmapcontent":"17582886341",
+            "Roughnessmapcontent":"17582886349"
       },
           "Honey":{
-            "ColorMap":"",
-            "MetalnessMap":"96030697377248",
-            "NormalMap":"87001153819521",
-            "RoughnessMap":"92853442776873",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"96030697377248",
-            "NormalMapContent":"87001153819521",
-            "RoughnessMapContent":"92853442776873"
+            "Colormap":"",
+            "Metalnessmap":"96030697377248",
+            "Normalmap":"87001153819521",
+            "Roughnessmap":"92853442776873",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"96030697377248",
+            "Normalmapcontent":"87001153819521",
+            "Roughnessmapcontent":"92853442776873"
       },
           "Honeycomb":{
-            "ColorMap":"111808084543740",
-            "MetalnessMap":"",
-            "NormalMap":"113733858629044",
-            "RoughnessMap":"",
-            "ColorMapContent":"111808084543740",
-            "MetalnessMapContent":"",
-            "NormalMapContent":"113733858629044",
-            "RoughnessMapContent":""
+            "Colormap":"111808084543740",
+            "Metalnessmap":"",
+            "Normalmap":"113733858629044",
+            "Roughnessmap":"",
+            "Colormapcontent":"111808084543740",
+            "Metalnessmapcontent":"",
+            "Normalmapcontent":"113733858629044",
+            "Roughnessmapcontent":""
       },
           "Hyperdrive":{
-            "ColorMap":"18656115244",
-            "MetalnessMap":"18656115117",
-            "NormalMap":"18656115248",
-            "RoughnessMap":"18656115200",
-            "ColorMapContent":"18656115244",
-            "MetalnessMapContent":"18656115117",
-            "NormalMapContent":"18656115248",
-            "RoughnessMapContent":"18656115200"
+            "Colormap":"18656115244",
+            "Metalnessmap":"18656115117",
+            "Normalmap":"18656115248",
+            "Roughnessmap":"18656115200",
+            "Colormapcontent":"18656115244",
+            "Metalnessmapcontent":"18656115117",
+            "Normalmapcontent":"18656115248",
+            "Roughnessmapcontent":"18656115200"
       },
           "Hypnotic 1":{
-            "ColorMap":"18655823575",
-            "MetalnessMap":"18655823343",
-            "NormalMap":"18655823556",
-            "RoughnessMap":"18655823422",
-            "ColorMapContent":"18655823575",
-            "MetalnessMapContent":"18655823343",
-            "NormalMapContent":"18655823556",
-            "RoughnessMapContent":"18655823422"
+            "Colormap":"18655823575",
+            "Metalnessmap":"18655823343",
+            "Normalmap":"18655823556",
+            "Roughnessmap":"18655823422",
+            "Colormapcontent":"18655823575",
+            "Metalnessmapcontent":"18655823343",
+            "Normalmapcontent":"18655823556",
+            "Roughnessmapcontent":"18655823422"
       },
           "Hypnotic 2":{
-            "ColorMap":"18655839320",
-            "MetalnessMap":"18655839096",
-            "NormalMap":"18655839184",
-            "RoughnessMap":"18655839144",
-            "ColorMapContent":"18655839320",
-            "MetalnessMapContent":"18655839096",
-            "NormalMapContent":"18655839184",
-            "RoughnessMapContent":"18655839144"
+            "Colormap":"18655839320",
+            "Metalnessmap":"18655839096",
+            "Normalmap":"18655839184",
+            "Roughnessmap":"18655839144",
+            "Colormapcontent":"18655839320",
+            "Metalnessmapcontent":"18655839096",
+            "Normalmapcontent":"18655839184",
+            "Roughnessmapcontent":"18655839144"
       },
           "Insidious":{
-            "ColorMap":"17588995235",
-            "MetalnessMap":"17588995187",
-            "NormalMap":"17588995267",
-            "RoughnessMap":"17588995237",
-            "ColorMapContent":"17588995235",
-            "MetalnessMapContent":"17588995187",
-            "NormalMapContent":"17588995267",
-            "RoughnessMapContent":"17588995237"
+            "Colormap":"17588995235",
+            "Metalnessmap":"17588995187",
+            "Normalmap":"17588995267",
+            "Roughnessmap":"17588995237",
+            "Colormapcontent":"17588995235",
+            "Metalnessmapcontent":"17588995187",
+            "Normalmapcontent":"17588995267",
+            "Roughnessmapcontent":"17588995237"
       },
           "Insignia":{
-            "ColorMap":"18641348088",
-            "MetalnessMap":"18641347929",
-            "NormalMap":"18641348089",
-            "RoughnessMap":"18641348063",
-            "ColorMapContent":"18641348088",
-            "MetalnessMapContent":"18641347929",
-            "NormalMapContent":"18641348089",
-            "RoughnessMapContent":"18641348063"
+            "Colormap":"18641348088",
+            "Metalnessmap":"18641347929",
+            "Normalmap":"18641348089",
+            "Roughnessmap":"18641348063",
+            "Colormapcontent":"18641348088",
+            "Metalnessmapcontent":"18641347929",
+            "Normalmapcontent":"18641348089",
+            "Roughnessmapcontent":"18641348063"
       },
-          "K_Material":{
-            "ColorMap":"",
-            "MetalnessMap":"135923263838272",
-            "NormalMap":"137868992090530",
-            "RoughnessMap":"127663527074764",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"135923263838272",
-            "NormalMapContent":"137868992090530",
-            "RoughnessMapContent":"127663527074764"
+          "K_material":{
+            "Colormap":"",
+            "Metalnessmap":"135923263838272",
+            "Normalmap":"137868992090530",
+            "Roughnessmap":"127663527074764",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"135923263838272",
+            "Normalmapcontent":"137868992090530",
+            "Roughnessmapcontent":"127663527074764"
       },
-          "LavishCrystal":{
-            "ColorMap":"",
-            "MetalnessMap":"17589037508",
-            "NormalMap":"81426768920073",
-            "RoughnessMap":"132540389553062",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"17589037508",
-            "NormalMapContent":"81426768920073",
-            "RoughnessMapContent":"132540389553062"
+          "Lavishcrystal":{
+            "Colormap":"",
+            "Metalnessmap":"17589037508",
+            "Normalmap":"81426768920073",
+            "Roughnessmap":"132540389553062",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"17589037508",
+            "Normalmapcontent":"81426768920073",
+            "Roughnessmapcontent":"132540389553062"
       },
           "Leafy Grass":{
-            "ColorMap":"18644722588",
-            "MetalnessMap":"18644722750",
-            "NormalMap":"18644723221",
-            "RoughnessMap":"18644723502",
-            "ColorMapContent":"18644722588",
-            "MetalnessMapContent":"18644722750",
-            "NormalMapContent":"18644723221",
-            "RoughnessMapContent":"18644723502"
+            "Colormap":"18644722588",
+            "Metalnessmap":"18644722750",
+            "Normalmap":"18644723221",
+            "Roughnessmap":"18644723502",
+            "Colormapcontent":"18644722588",
+            "Metalnessmapcontent":"18644722750",
+            "Normalmapcontent":"18644723221",
+            "Roughnessmapcontent":"18644723502"
       },
-          "LimefireMat":{
-            "ColorMap":"",
-            "MetalnessMap":"135923263838272",
-            "NormalMap":"134435564236648",
-            "RoughnessMap":"127663527074764",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"135923263838272",
-            "NormalMapContent":"134435564236648",
-            "RoughnessMapContent":"127663527074764"
+          "Limefiremat":{
+            "Colormap":"",
+            "Metalnessmap":"135923263838272",
+            "Normalmap":"134435564236648",
+            "Roughnessmap":"127663527074764",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"135923263838272",
+            "Normalmapcontent":"134435564236648",
+            "Roughnessmapcontent":"127663527074764"
       },
           "Liquid Chrome":{
-            "ColorMap":"18641282500",
-            "MetalnessMap":"18641282415",
-            "NormalMap":"18641282505",
-            "RoughnessMap":"93524032648502",
-            "ColorMapContent":"18641282500",
-            "MetalnessMapContent":"18641282415",
-            "NormalMapContent":"18641282505",
-            "RoughnessMapContent":"93524032648502"
+            "Colormap":"18641282500",
+            "Metalnessmap":"18641282415",
+            "Normalmap":"18641282505",
+            "Roughnessmap":"93524032648502",
+            "Colormapcontent":"18641282500",
+            "Metalnessmapcontent":"18641282415",
+            "Normalmapcontent":"18641282505",
+            "Roughnessmapcontent":"93524032648502"
       },
           "Liquid Gold":{
-            "ColorMap":"18641274805",
-            "MetalnessMap":"18641274662",
-            "NormalMap":"18641274943",
-            "RoughnessMap":"93524032648502",
-            "ColorMapContent":"18641274805",
-            "MetalnessMapContent":"18641274662",
-            "NormalMapContent":"18641274943",
-            "RoughnessMapContent":"93524032648502"
+            "Colormap":"18641274805",
+            "Metalnessmap":"18641274662",
+            "Normalmap":"18641274943",
+            "Roughnessmap":"93524032648502",
+            "Colormapcontent":"18641274805",
+            "Metalnessmapcontent":"18641274662",
+            "Normalmapcontent":"18641274943",
+            "Roughnessmapcontent":"93524032648502"
       },
           "Lumber":{
-            "ColorMap":"11328578444",
-            "MetalnessMap":"",
-            "NormalMap":"11327525324",
-            "RoughnessMap":"11327525435",
-            "ColorMapContent":"11328578444",
-            "MetalnessMapContent":"",
-            "NormalMapContent":"11327525324",
-            "RoughnessMapContent":"11327525435"
+            "Colormap":"11328578444",
+            "Metalnessmap":"",
+            "Normalmap":"11327525324",
+            "Roughnessmap":"11327525435",
+            "Colormapcontent":"11328578444",
+            "Metalnessmapcontent":"",
+            "Normalmapcontent":"11327525324",
+            "Roughnessmapcontent":"11327525435"
       },
           "Mahogany Wood":{
-            "ColorMap":"18654114690",
-            "MetalnessMap":"18654114505",
-            "NormalMap":"18654114656",
-            "RoughnessMap":"18654114599",
-            "ColorMapContent":"18654114690",
-            "MetalnessMapContent":"18654114505",
-            "NormalMapContent":"18654114656",
-            "RoughnessMapContent":"18654114599"
+            "Colormap":"18654114690",
+            "Metalnessmap":"18654114505",
+            "Normalmap":"18654114656",
+            "Roughnessmap":"18654114599",
+            "Colormapcontent":"18654114690",
+            "Metalnessmapcontent":"18654114505",
+            "Normalmapcontent":"18654114656",
+            "Roughnessmapcontent":"18654114599"
       },
           "Mainframe":{
-            "ColorMap":"17582847642",
-            "MetalnessMap":"17582847574",
-            "NormalMap":"17582847629",
-            "RoughnessMap":"17582847609",
-            "ColorMapContent":"17582847642",
-            "MetalnessMapContent":"17582847574",
-            "NormalMapContent":"17582847629",
-            "RoughnessMapContent":"17582847609"
+            "Colormap":"17582847642",
+            "Metalnessmap":"17582847574",
+            "Normalmap":"17582847629",
+            "Roughnessmap":"17582847609",
+            "Colormapcontent":"17582847642",
+            "Metalnessmapcontent":"17582847574",
+            "Normalmapcontent":"17582847629",
+            "Roughnessmapcontent":"17582847609"
       },
           "Malachite":{
-            "ColorMap":"17570628587",
-            "MetalnessMap":"17570628532",
-            "NormalMap":"17570628576",
-            "RoughnessMap":"17570628566",
-            "ColorMapContent":"17570628587",
-            "MetalnessMapContent":"17570628532",
-            "NormalMapContent":"17570628576",
-            "RoughnessMapContent":"17570628566"
+            "Colormap":"17570628587",
+            "Metalnessmap":"17570628532",
+            "Normalmap":"17570628576",
+            "Roughnessmap":"17570628566",
+            "Colormapcontent":"17570628587",
+            "Metalnessmapcontent":"17570628532",
+            "Normalmapcontent":"17570628576",
+            "Roughnessmapcontent":"17570628566"
       },
           "Malevolent":{
-            "ColorMap":"17582809337",
-            "MetalnessMap":"17582809245",
-            "NormalMap":"17582809307",
-            "RoughnessMap":"17582809305",
-            "ColorMapContent":"17582809337",
-            "MetalnessMapContent":"17582809245",
-            "NormalMapContent":"17582809307",
-            "RoughnessMapContent":"17582809305"
+            "Colormap":"17582809337",
+            "Metalnessmap":"17582809245",
+            "Normalmap":"17582809307",
+            "Roughnessmap":"17582809305",
+            "Colormapcontent":"17582809337",
+            "Metalnessmapcontent":"17582809245",
+            "Normalmapcontent":"17582809307",
+            "Roughnessmapcontent":"17582809305"
       },
-          "MammothFur":{
-            "ColorMap":"128174483038108",
-            "MetalnessMap":"116814075876978",
-            "NormalMap":"126364117867207",
-            "RoughnessMap":"120995876840209",
-            "ColorMapContent":"128174483038108",
-            "MetalnessMapContent":"116814075876978",
-            "NormalMapContent":"126364117867207",
-            "RoughnessMapContent":"120995876840209"
+          "Mammothfur":{
+            "Colormap":"128174483038108",
+            "Metalnessmap":"116814075876978",
+            "Normalmap":"126364117867207",
+            "Roughnessmap":"120995876840209",
+            "Colormapcontent":"128174483038108",
+            "Metalnessmapcontent":"116814075876978",
+            "Normalmapcontent":"126364117867207",
+            "Roughnessmapcontent":"120995876840209"
       },
           "Moonstone":{
-            "ColorMap":"17589164975",
-            "MetalnessMap":"17589164916",
-            "NormalMap":"17589164973",
-            "RoughnessMap":"17589165190",
-            "ColorMapContent":"17589164975",
-            "MetalnessMapContent":"17589164916",
-            "NormalMapContent":"17589164973",
-            "RoughnessMapContent":"17589165190"
+            "Colormap":"17589164975",
+            "Metalnessmap":"17589164916",
+            "Normalmap":"17589164973",
+            "Roughnessmap":"17589165190",
+            "Colormapcontent":"17589164975",
+            "Metalnessmapcontent":"17589164916",
+            "Normalmapcontent":"17589164973",
+            "Roughnessmapcontent":"17589165190"
       },
-          "NecromancerGlossy":{
-            "ColorMap":"",
-            "MetalnessMap":"135923263838272",
-            "NormalMap":"137868992090530",
-            "RoughnessMap":"127663527074764",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"135923263838272",
-            "NormalMapContent":"137868992090530",
-            "RoughnessMapContent":"127663527074764"
+          "Necromancerglossy":{
+            "Colormap":"",
+            "Metalnessmap":"135923263838272",
+            "Normalmap":"137868992090530",
+            "Roughnessmap":"127663527074764",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"135923263838272",
+            "Normalmapcontent":"137868992090530",
+            "Roughnessmapcontent":"127663527074764"
       },
           "Neo":{
-            "ColorMap":"18641017664",
-            "MetalnessMap":"18641017562",
-            "NormalMap":"18641017657",
-            "RoughnessMap":"18641017622",
-            "ColorMapContent":"18641017664",
-            "MetalnessMapContent":"18641017562",
-            "NormalMapContent":"18641017657",
-            "RoughnessMapContent":"18641017622"
+            "Colormap":"18641017664",
+            "Metalnessmap":"18641017562",
+            "Normalmap":"18641017657",
+            "Roughnessmap":"18641017622",
+            "Colormapcontent":"18641017664",
+            "Metalnessmapcontent":"18641017562",
+            "Normalmapcontent":"18641017657",
+            "Roughnessmapcontent":"18641017622"
       },
           "Nova":{
-            "ColorMap":"17589931460",
-            "MetalnessMap":"17589931398",
-            "NormalMap":"17589931459",
-            "RoughnessMap":"17589931453",
-            "ColorMapContent":"17589931460",
-            "MetalnessMapContent":"17589931398",
-            "NormalMapContent":"17589931459",
-            "RoughnessMapContent":"17589931453"
+            "Colormap":"17589931460",
+            "Metalnessmap":"17589931398",
+            "Normalmap":"17589931459",
+            "Roughnessmap":"17589931453",
+            "Colormapcontent":"17589931460",
+            "Metalnessmapcontent":"17589931398",
+            "Normalmapcontent":"17589931459",
+            "Roughnessmapcontent":"17589931453"
       },
           "Ocean Camo":{
-            "ColorMap":"17617613100",
-            "MetalnessMap":"17617613032",
-            "NormalMap":"17617613084",
-            "RoughnessMap":"17617613075",
-            "ColorMapContent":"17617613100",
-            "MetalnessMapContent":"17617613032",
-            "NormalMapContent":"17617613084",
-            "RoughnessMapContent":"17617613075"
+            "Colormap":"17617613100",
+            "Metalnessmap":"17617613032",
+            "Normalmap":"17617613084",
+            "Roughnessmap":"17617613075",
+            "Colormapcontent":"17617613100",
+            "Metalnessmapcontent":"17617613032",
+            "Normalmapcontent":"17617613084",
+            "Roughnessmapcontent":"17617613075"
       },
           "Omnisand":{
-            "ColorMap":"17589348648",
-            "MetalnessMap":"17589348575",
-            "NormalMap":"17589348639",
-            "RoughnessMap":"17589348633",
-            "ColorMapContent":"17589348648",
-            "MetalnessMapContent":"17589348575",
-            "NormalMapContent":"17589348639",
-            "RoughnessMapContent":"17589348633"
+            "Colormap":"17589348648",
+            "Metalnessmap":"17589348575",
+            "Normalmap":"17589348639",
+            "Roughnessmap":"17589348633",
+            "Colormapcontent":"17589348648",
+            "Metalnessmapcontent":"17589348575",
+            "Normalmapcontent":"17589348639",
+            "Roughnessmapcontent":"17589348633"
       },
-          "PB & J":{
-            "ColorMap":"17589854809",
-            "MetalnessMap":"17589854740",
-            "NormalMap":"17589854812",
-            "RoughnessMap":"17589854801",
-            "ColorMapContent":"17589854809",
-            "MetalnessMapContent":"17589854740",
-            "NormalMapContent":"17589854812",
-            "RoughnessMapContent":"17589854801"
+          "Pb & J":{
+            "Colormap":"17589854809",
+            "Metalnessmap":"17589854740",
+            "Normalmap":"17589854812",
+            "Roughnessmap":"17589854801",
+            "Colormapcontent":"17589854809",
+            "Metalnessmapcontent":"17589854740",
+            "Normalmapcontent":"17589854812",
+            "Roughnessmapcontent":"17589854801"
       },
-          "PBRSimpleMetallic":{
-            "ColorMap":"",
-            "MetalnessMap":"134488833607670",
-            "NormalMap":"",
-            "RoughnessMap":"",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"134488833607670",
-            "NormalMapContent":"",
-            "RoughnessMapContent":""
+          "Pbrsimplemetallic":{
+            "Colormap":"",
+            "Metalnessmap":"134488833607670",
+            "Normalmap":"",
+            "Roughnessmap":"",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"134488833607670",
+            "Normalmapcontent":"",
+            "Roughnessmapcontent":""
       },
           "Paint":{
-            "ColorMap":"18129622046",
-            "MetalnessMap":"18129621984",
-            "NormalMap":"93524032648502",
-            "RoughnessMap":"82348794042057",
-            "ColorMapContent":"18129622046",
-            "MetalnessMapContent":"18129621984",
-            "NormalMapContent":"93524032648502",
-            "RoughnessMapContent":"82348794042057"
+            "Colormap":"18129622046",
+            "Metalnessmap":"18129621984",
+            "Normalmap":"93524032648502",
+            "Roughnessmap":"82348794042057",
+            "Colormapcontent":"18129622046",
+            "Metalnessmapcontent":"18129621984",
+            "Normalmapcontent":"93524032648502",
+            "Roughnessmapcontent":"82348794042057"
       },
-          "PajamaFur":{
-            "ColorMap":"128174483038108",
-            "MetalnessMap":"116814075876978",
-            "NormalMap":"126364117867207",
-            "RoughnessMap":"120995876840209",
-            "ColorMapContent":"128174483038108",
-            "MetalnessMapContent":"116814075876978",
-            "NormalMapContent":"126364117867207",
-            "RoughnessMapContent":"120995876840209"
+          "Pajamafur":{
+            "Colormap":"128174483038108",
+            "Metalnessmap":"116814075876978",
+            "Normalmap":"126364117867207",
+            "Roughnessmap":"120995876840209",
+            "Colormapcontent":"128174483038108",
+            "Metalnessmapcontent":"116814075876978",
+            "Normalmapcontent":"126364117867207",
+            "Roughnessmapcontent":"120995876840209"
       },
           "Patriot":{
-            "ColorMap":"17582870627",
-            "MetalnessMap":"17582870583",
-            "NormalMap":"17582870615",
-            "RoughnessMap":"17582870605",
-            "ColorMapContent":"17582870627",
-            "MetalnessMapContent":"17582870583",
-            "NormalMapContent":"17582870615",
-            "RoughnessMapContent":"17582870605"
+            "Colormap":"17582870627",
+            "Metalnessmap":"17582870583",
+            "Normalmap":"17582870615",
+            "Roughnessmap":"17582870605",
+            "Colormapcontent":"17582870627",
+            "Metalnessmapcontent":"17582870583",
+            "Normalmapcontent":"17582870615",
+            "Roughnessmapcontent":"17582870605"
       },
           "Pearlescent":{
-            "ColorMap":"",
-            "MetalnessMap":"96030697377248",
-            "NormalMap":"87001153819521",
-            "RoughnessMap":"",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"96030697377248",
-            "NormalMapContent":"87001153819521",
-            "RoughnessMapContent":""
+            "Colormap":"",
+            "Metalnessmap":"96030697377248",
+            "Normalmap":"87001153819521",
+            "Roughnessmap":"",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"96030697377248",
+            "Normalmapcontent":"87001153819521",
+            "Roughnessmapcontent":""
       },
-          "PeridotMat":{
-            "ColorMap":"",
-            "MetalnessMap":"135923263838272",
-            "NormalMap":"134435564236648",
-            "RoughnessMap":"127663527074764",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"135923263838272",
-            "NormalMapContent":"134435564236648",
-            "RoughnessMapContent":"127663527074764"
+          "Peridotmat":{
+            "Colormap":"",
+            "Metalnessmap":"135923263838272",
+            "Normalmap":"134435564236648",
+            "Roughnessmap":"127663527074764",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"135923263838272",
+            "Normalmapcontent":"134435564236648",
+            "Roughnessmapcontent":"127663527074764"
       },
           "Peril":{
-            "ColorMap":"17591803719",
-            "MetalnessMap":"17591803633",
-            "NormalMap":"17591803707",
-            "RoughnessMap":"17591803674",
-            "ColorMapContent":"17591803719",
-            "MetalnessMapContent":"17591803633",
-            "NormalMapContent":"17591803707",
-            "RoughnessMapContent":"17591803674"
+            "Colormap":"17591803719",
+            "Metalnessmap":"17591803633",
+            "Normalmap":"17591803707",
+            "Roughnessmap":"17591803674",
+            "Colormapcontent":"17591803719",
+            "Metalnessmapcontent":"17591803633",
+            "Normalmapcontent":"17591803707",
+            "Roughnessmapcontent":"17591803674"
       },
           "Pine":{
-            "ColorMap":"11328578444",
-            "MetalnessMap":"",
-            "NormalMap":"11327525324",
-            "RoughnessMap":"11327525435",
-            "ColorMapContent":"11328578444",
-            "MetalnessMapContent":"",
-            "NormalMapContent":"11327525324",
-            "RoughnessMapContent":"11327525435"
+            "Colormap":"11328578444",
+            "Metalnessmap":"",
+            "Normalmap":"11327525324",
+            "Roughnessmap":"11327525435",
+            "Colormapcontent":"11328578444",
+            "Metalnessmapcontent":"",
+            "Normalmapcontent":"11327525324",
+            "Roughnessmapcontent":"11327525435"
       },
           "Pink Glitter":{
-            "ColorMap":"",
-            "MetalnessMap":"114795919439328",
-            "NormalMap":"116726481763466",
-            "RoughnessMap":"127220873690660",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"114795919439328",
-            "NormalMapContent":"116726481763466",
-            "RoughnessMapContent":"127220873690660"
+            "Colormap":"",
+            "Metalnessmap":"114795919439328",
+            "Normalmap":"116726481763466",
+            "Roughnessmap":"127220873690660",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"114795919439328",
+            "Normalmapcontent":"116726481763466",
+            "Roughnessmapcontent":"127220873690660"
       },
           "Purpleize":{
-            "ColorMap":"",
-            "MetalnessMap":"95621819055850",
-            "NormalMap":"112019875945311",
-            "RoughnessMap":"127566021877932",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"95621819055850",
-            "NormalMapContent":"112019875945311",
-            "RoughnessMapContent":"127566021877932"
+            "Colormap":"",
+            "Metalnessmap":"95621819055850",
+            "Normalmap":"112019875945311",
+            "Roughnessmap":"127566021877932",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"95621819055850",
+            "Normalmapcontent":"112019875945311",
+            "Roughnessmapcontent":"127566021877932"
       },
-          "RBLXPckge":{
-            "ColorMap":"85315421497372",
-            "MetalnessMap":"",
-            "NormalMap":"",
-            "RoughnessMap":"",
-            "ColorMapContent":"85315421497372",
-            "MetalnessMapContent":"",
-            "NormalMapContent":"",
-            "RoughnessMapContent":""
+          "Rblxpckge":{
+            "Colormap":"85315421497372",
+            "Metalnessmap":"",
+            "Normalmap":"",
+            "Roughnessmap":"",
+            "Colormapcontent":"85315421497372",
+            "Metalnessmapcontent":"",
+            "Normalmapcontent":"",
+            "Roughnessmapcontent":""
       },
           "Rage":{
-            "ColorMap":"17582378136",
-            "MetalnessMap":"17582378084",
-            "NormalMap":"17582378125",
-            "RoughnessMap":"17582378117",
-            "ColorMapContent":"17582378136",
-            "MetalnessMapContent":"17582378084",
-            "NormalMapContent":"17582378125",
-            "RoughnessMapContent":"17582378117"
+            "Colormap":"17582378136",
+            "Metalnessmap":"17582378084",
+            "Normalmap":"17582378125",
+            "Roughnessmap":"17582378117",
+            "Colormapcontent":"17582378136",
+            "Metalnessmapcontent":"17582378084",
+            "Normalmapcontent":"17582378125",
+            "Roughnessmapcontent":"17582378117"
       },
-          "RegalFabric":{
-            "ColorMap":"111136973658733",
-            "MetalnessMap":"",
-            "NormalMap":"135694376518944",
-            "RoughnessMap":"76014704291105",
-            "ColorMapContent":"111136973658733",
-            "MetalnessMapContent":"",
-            "NormalMapContent":"135694376518944",
-            "RoughnessMapContent":"76014704291105"
+          "Regalfabric":{
+            "Colormap":"111136973658733",
+            "Metalnessmap":"",
+            "Normalmap":"135694376518944",
+            "Roughnessmap":"76014704291105",
+            "Colormapcontent":"111136973658733",
+            "Metalnessmapcontent":"",
+            "Normalmapcontent":"135694376518944",
+            "Roughnessmapcontent":"76014704291105"
       },
           "Reptile":{
-            "ColorMap":"17589127040",
-            "MetalnessMap":"17589126950",
-            "NormalMap":"17589127044",
-            "RoughnessMap":"17589127028",
-            "ColorMapContent":"17589127040",
-            "MetalnessMapContent":"17589126950",
-            "NormalMapContent":"17589127044",
-            "RoughnessMapContent":"17589127028"
+            "Colormap":"17589127040",
+            "Metalnessmap":"17589126950",
+            "Normalmap":"17589127044",
+            "Roughnessmap":"17589127028",
+            "Colormapcontent":"17589127040",
+            "Metalnessmapcontent":"17589126950",
+            "Normalmapcontent":"17589127044",
+            "Roughnessmapcontent":"17589127028"
       },
           "Resolute":{
-            "ColorMap":"18655847054",
-            "MetalnessMap":"18655846896",
-            "NormalMap":"18655846950",
-            "RoughnessMap":"18655846941",
-            "ColorMapContent":"18655847054",
-            "MetalnessMapContent":"18655846896",
-            "NormalMapContent":"18655846950",
-            "RoughnessMapContent":"18655846941"
+            "Colormap":"18655847054",
+            "Metalnessmap":"18655846896",
+            "Normalmap":"18655846950",
+            "Roughnessmap":"18655846941",
+            "Colormapcontent":"18655847054",
+            "Metalnessmapcontent":"18655846896",
+            "Normalmapcontent":"18655846950",
+            "Roughnessmapcontent":"18655846941"
       },
-          "RivalryMaterial":{
-            "ColorMap":"",
-            "MetalnessMap":"100746634314832",
-            "NormalMap":"",
-            "RoughnessMap":"128912834378921",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"100746634314832",
-            "NormalMapContent":"",
-            "RoughnessMapContent":"128912834378921"
+          "Rivalrymaterial":{
+            "Colormap":"",
+            "Metalnessmap":"100746634314832",
+            "Normalmap":"",
+            "Roughnessmap":"128912834378921",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"100746634314832",
+            "Normalmapcontent":"",
+            "Roughnessmapcontent":"128912834378921"
       },
-          "RusticWood":{
-            "ColorMap":"17582925420",
-            "MetalnessMap":"17582925359",
-            "NormalMap":"17582925415",
-            "RoughnessMap":"17582925394",
-            "ColorMapContent":"17582925420",
-            "MetalnessMapContent":"17582925359",
-            "NormalMapContent":"17582925415",
-            "RoughnessMapContent":"17582925394"
+          "Rusticwood":{
+            "Colormap":"17582925420",
+            "Metalnessmap":"17582925359",
+            "Normalmap":"17582925415",
+            "Roughnessmap":"17582925394",
+            "Colormapcontent":"17582925420",
+            "Metalnessmapcontent":"17582925359",
+            "Normalmapcontent":"17582925415",
+            "Roughnessmapcontent":"17582925394"
       },
           "Scales":{
-            "ColorMap":"17581324777",
-            "MetalnessMap":"",
-            "NormalMap":"17581490923",
-            "RoughnessMap":"",
-            "ColorMapContent":"17581324777",
-            "MetalnessMapContent":"",
-            "NormalMapContent":"17581490923",
-            "RoughnessMapContent":""
+            "Colormap":"17581324777",
+            "Metalnessmap":"",
+            "Normalmap":"17581490923",
+            "Roughnessmap":"",
+            "Colormapcontent":"17581324777",
+            "Metalnessmapcontent":"",
+            "Normalmapcontent":"17581490923",
+            "Roughnessmapcontent":""
       },
           "Scorched":{
-            "ColorMap":"17582755368",
-            "MetalnessMap":"17582755317",
-            "NormalMap":"17582755359",
-            "RoughnessMap":"17582755347",
-            "ColorMapContent":"17582755368",
-            "MetalnessMapContent":"17582755317",
-            "NormalMapContent":"17582755359",
-            "RoughnessMapContent":"17582755347"
+            "Colormap":"17582755368",
+            "Metalnessmap":"17582755317",
+            "Normalmap":"17582755359",
+            "Roughnessmap":"17582755347",
+            "Colormapcontent":"17582755368",
+            "Metalnessmapcontent":"17582755317",
+            "Normalmapcontent":"17582755359",
+            "Roughnessmapcontent":"17582755347"
       },
           "Scourge":{
-            "ColorMap":"98870437335087",
-            "MetalnessMap":"91966623576070",
-            "NormalMap":"",
-            "RoughnessMap":"",
-            "ColorMapContent":"98870437335087",
-            "MetalnessMapContent":"91966623576070",
-            "NormalMapContent":"",
-            "RoughnessMapContent":""
+            "Colormap":"98870437335087",
+            "Metalnessmap":"91966623576070",
+            "Normalmap":"",
+            "Roughnessmap":"",
+            "Colormapcontent":"98870437335087",
+            "Metalnessmapcontent":"91966623576070",
+            "Normalmapcontent":"",
+            "Roughnessmapcontent":""
       },
-          "ScribbleWrapping":{
-            "ColorMap":"70369684461131",
-            "MetalnessMap":"125298060223774",
-            "NormalMap":"126665103448625",
-            "RoughnessMap":"137381161016120",
-            "ColorMapContent":"70369684461131",
-            "MetalnessMapContent":"125298060223774",
-            "NormalMapContent":"126665103448625",
-            "RoughnessMapContent":"137381161016120"
+          "Scribblewrapping":{
+            "Colormap":"70369684461131",
+            "Metalnessmap":"125298060223774",
+            "Normalmap":"126665103448625",
+            "Roughnessmap":"137381161016120",
+            "Colormapcontent":"70369684461131",
+            "Metalnessmapcontent":"125298060223774",
+            "Normalmapcontent":"126665103448625",
+            "Roughnessmapcontent":"137381161016120"
       },
           "Slime":{
-            "ColorMap":"17582785346",
-            "MetalnessMap":"17582785287",
-            "NormalMap":"17582785350",
-            "RoughnessMap":"17582785352",
-            "ColorMapContent":"17582785346",
-            "MetalnessMapContent":"17582785287",
-            "NormalMapContent":"17582785350",
-            "RoughnessMapContent":"17582785352"
+            "Colormap":"17582785346",
+            "Metalnessmap":"17582785287",
+            "Normalmap":"17582785350",
+            "Roughnessmap":"17582785352",
+            "Colormapcontent":"17582785346",
+            "Metalnessmapcontent":"17582785287",
+            "Normalmapcontent":"17582785350",
+            "Roughnessmapcontent":"17582785352"
       },
           "Spellslinger":{
-            "ColorMap":"114902630653540",
-            "MetalnessMap":"128745963218699",
-            "NormalMap":"74253250898950",
-            "RoughnessMap":"129235618590072",
-            "ColorMapContent":"114902630653540",
-            "MetalnessMapContent":"128745963218699",
-            "NormalMapContent":"74253250898950",
-            "RoughnessMapContent":"129235618590072"
+            "Colormap":"114902630653540",
+            "Metalnessmap":"128745963218699",
+            "Normalmap":"74253250898950",
+            "Roughnessmap":"129235618590072",
+            "Colormapcontent":"114902630653540",
+            "Metalnessmapcontent":"128745963218699",
+            "Normalmapcontent":"74253250898950",
+            "Roughnessmapcontent":"129235618590072"
       },
           "Spiral1":{
-            "ColorMap":"109134908250320",
-            "MetalnessMap":"115488103046621",
-            "NormalMap":"81217178723404",
-            "RoughnessMap":"",
-            "ColorMapContent":"109134908250320",
-            "MetalnessMapContent":"115488103046621",
-            "NormalMapContent":"81217178723404",
-            "RoughnessMapContent":""
+            "Colormap":"109134908250320",
+            "Metalnessmap":"115488103046621",
+            "Normalmap":"81217178723404",
+            "Roughnessmap":"",
+            "Colormapcontent":"109134908250320",
+            "Metalnessmapcontent":"115488103046621",
+            "Normalmapcontent":"81217178723404",
+            "Roughnessmapcontent":""
       },
           "Spiral2":{
-            "ColorMap":"",
-            "MetalnessMap":"97595754213125",
-            "NormalMap":"90414929459700",
-            "RoughnessMap":"93568274815417",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"97595754213125",
-            "NormalMapContent":"90414929459700",
-            "RoughnessMapContent":"93568274815417"
+            "Colormap":"",
+            "Metalnessmap":"97595754213125",
+            "Normalmap":"90414929459700",
+            "Roughnessmap":"93568274815417",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"97595754213125",
+            "Normalmapcontent":"90414929459700",
+            "Roughnessmapcontent":"93568274815417"
       },
           "Stained":{
-            "ColorMap":"136786813545841",
-            "MetalnessMap":"98415910273635",
-            "NormalMap":"86016059730442",
-            "RoughnessMap":"70663357718625",
-            "ColorMapContent":"136786813545841",
-            "MetalnessMapContent":"98415910273635",
-            "NormalMapContent":"86016059730442",
-            "RoughnessMapContent":"70663357718625"
+            "Colormap":"136786813545841",
+            "Metalnessmap":"98415910273635",
+            "Normalmap":"86016059730442",
+            "Roughnessmap":"70663357718625",
+            "Colormapcontent":"136786813545841",
+            "Metalnessmapcontent":"98415910273635",
+            "Normalmapcontent":"86016059730442",
+            "Roughnessmapcontent":"70663357718625"
       },
           "Starblaze 1":{
-            "ColorMap":"18656097537",
-            "MetalnessMap":"18656097454",
-            "NormalMap":"18656097583",
-            "RoughnessMap":"18656097514",
-            "ColorMapContent":"18656097537",
-            "MetalnessMapContent":"18656097454",
-            "NormalMapContent":"18656097583",
-            "RoughnessMapContent":"18656097514"
+            "Colormap":"18656097537",
+            "Metalnessmap":"18656097454",
+            "Normalmap":"18656097583",
+            "Roughnessmap":"18656097514",
+            "Colormapcontent":"18656097537",
+            "Metalnessmapcontent":"18656097454",
+            "Normalmapcontent":"18656097583",
+            "Roughnessmapcontent":"18656097514"
       },
           "Starblaze 2":{
-            "ColorMap":"18656053049",
-            "MetalnessMap":"18656052933",
-            "NormalMap":"18656053057",
-            "RoughnessMap":"18656053007",
-            "ColorMapContent":"18656053049",
-            "MetalnessMapContent":"18656052933",
-            "NormalMapContent":"18656053057",
-            "RoughnessMapContent":"18656053007"
+            "Colormap":"18656053049",
+            "Metalnessmap":"18656052933",
+            "Normalmap":"18656053057",
+            "Roughnessmap":"18656053007",
+            "Colormapcontent":"18656053049",
+            "Metalnessmapcontent":"18656052933",
+            "Normalmapcontent":"18656053057",
+            "Roughnessmapcontent":"18656053007"
       },
           "Steel":{
-            "ColorMap":"17589351399",
-            "MetalnessMap":"17589351307",
-            "NormalMap":"17589351439",
-            "RoughnessMap":"17589351351",
-            "ColorMapContent":"17589351399",
-            "MetalnessMapContent":"17589351307",
-            "NormalMapContent":"17589351439",
-            "RoughnessMapContent":"17589351351"
+            "Colormap":"17589351399",
+            "Metalnessmap":"17589351307",
+            "Normalmap":"17589351439",
+            "Roughnessmap":"17589351351",
+            "Colormapcontent":"17589351399",
+            "Metalnessmapcontent":"17589351307",
+            "Normalmapcontent":"17589351439",
+            "Roughnessmapcontent":"17589351351"
       },
-          "StockingFur":{
-            "ColorMap":"128174483038108",
-            "MetalnessMap":"116814075876978",
-            "NormalMap":"126364117867207",
-            "RoughnessMap":"120995876840209",
-            "ColorMapContent":"128174483038108",
-            "MetalnessMapContent":"116814075876978",
-            "NormalMapContent":"126364117867207",
-            "RoughnessMapContent":"120995876840209"
+          "Stockingfur":{
+            "Colormap":"128174483038108",
+            "Metalnessmap":"116814075876978",
+            "Normalmap":"126364117867207",
+            "Roughnessmap":"120995876840209",
+            "Colormapcontent":"128174483038108",
+            "Metalnessmapcontent":"116814075876978",
+            "Normalmapcontent":"126364117867207",
+            "Roughnessmapcontent":"120995876840209"
       },
           "Storm":{
-            "ColorMap":"17582469549",
-            "MetalnessMap":"17582469499",
-            "NormalMap":"17582469531",
-            "RoughnessMap":"17582469535",
-            "ColorMapContent":"17582469549",
-            "MetalnessMapContent":"17582469499",
-            "NormalMapContent":"17582469531",
-            "RoughnessMapContent":"17582469535"
+            "Colormap":"17582469549",
+            "Metalnessmap":"17582469499",
+            "Normalmap":"17582469531",
+            "Roughnessmap":"17582469535",
+            "Colormapcontent":"17582469549",
+            "Metalnessmapcontent":"17582469499",
+            "Normalmapcontent":"17582469531",
+            "Roughnessmapcontent":"17582469535"
       },
           "Street Camo":{
-            "ColorMap":"17617741416",
-            "MetalnessMap":"17617741348",
-            "NormalMap":"17617741442",
-            "RoughnessMap":"17617741399",
-            "ColorMapContent":"17617741416",
-            "MetalnessMapContent":"17617741348",
-            "NormalMapContent":"17617741442",
-            "RoughnessMapContent":"17617741399"
+            "Colormap":"17617741416",
+            "Metalnessmap":"17617741348",
+            "Normalmap":"17617741442",
+            "Roughnessmap":"17617741399",
+            "Colormapcontent":"17617741416",
+            "Metalnessmapcontent":"17617741348",
+            "Normalmapcontent":"17617741442",
+            "Roughnessmapcontent":"17617741399"
       },
           "Studded":{
-            "ColorMap":"",
-            "MetalnessMap":"18644833242",
-            "NormalMap":"18644833573",
-            "RoughnessMap":"18644833553",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"18644833242",
-            "NormalMapContent":"18644833573",
-            "RoughnessMapContent":"18644833553"
+            "Colormap":"",
+            "Metalnessmap":"18644833242",
+            "Normalmap":"18644833573",
+            "Roughnessmap":"18644833553",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"18644833242",
+            "Normalmapcontent":"18644833573",
+            "Roughnessmapcontent":"18644833553"
       },
           "Swirls":{
-            "ColorMap":"17582388221",
-            "MetalnessMap":"17582388162",
-            "NormalMap":"17582388228",
-            "RoughnessMap":"17582388197",
-            "ColorMapContent":"17582388221",
-            "MetalnessMapContent":"17582388162",
-            "NormalMapContent":"17582388228",
-            "RoughnessMapContent":"17582388197"
+            "Colormap":"17582388221",
+            "Metalnessmap":"17582388162",
+            "Normalmap":"17582388228",
+            "Roughnessmap":"17582388197",
+            "Colormapcontent":"17582388221",
+            "Metalnessmapcontent":"17582388162",
+            "Normalmapcontent":"17582388228",
+            "Roughnessmapcontent":"17582388197"
       },
           "Tiger":{
-            "ColorMap":"18655933154",
-            "MetalnessMap":"18655933061",
-            "NormalMap":"18655933147",
-            "RoughnessMap":"18655933113",
-            "ColorMapContent":"18655933154",
-            "MetalnessMapContent":"18655933061",
-            "NormalMapContent":"18655933147",
-            "RoughnessMapContent":"18655933113"
+            "Colormap":"18655933154",
+            "Metalnessmap":"18655933061",
+            "Normalmap":"18655933147",
+            "Roughnessmap":"18655933113",
+            "Colormapcontent":"18655933154",
+            "Metalnessmapcontent":"18655933061",
+            "Normalmapcontent":"18655933147",
+            "Roughnessmapcontent":"18655933113"
       },
-          "UglySweater":{
-            "ColorMap":"81747671623113",
-            "MetalnessMap":"92564941713444",
-            "NormalMap":"101745853037663",
-            "RoughnessMap":"109485401374810",
-            "ColorMapContent":"81747671623113",
-            "MetalnessMapContent":"92564941713444",
-            "NormalMapContent":"101745853037663",
-            "RoughnessMapContent":"109485401374810"
+          "Uglysweater":{
+            "Colormap":"81747671623113",
+            "Metalnessmap":"92564941713444",
+            "Normalmap":"101745853037663",
+            "Roughnessmap":"109485401374810",
+            "Colormapcontent":"81747671623113",
+            "Metalnessmapcontent":"92564941713444",
+            "Normalmapcontent":"101745853037663",
+            "Roughnessmapcontent":"109485401374810"
       },
-          "UglySweater2":{
-            "ColorMap":"115291970007984",
-            "MetalnessMap":"",
-            "NormalMap":"91422398817782",
-            "RoughnessMap":"",
-            "ColorMapContent":"115291970007984",
-            "MetalnessMapContent":"",
-            "NormalMapContent":"91422398817782",
-            "RoughnessMapContent":""
+          "Uglysweater2":{
+            "Colormap":"115291970007984",
+            "Metalnessmap":"",
+            "Normalmap":"91422398817782",
+            "Roughnessmap":"",
+            "Colormapcontent":"115291970007984",
+            "Metalnessmapcontent":"",
+            "Normalmapcontent":"91422398817782",
+            "Roughnessmapcontent":""
       },
           "Urban Camo":{
-            "ColorMap":"17617719650",
-            "MetalnessMap":"17617719565",
-            "NormalMap":"17617719651",
-            "RoughnessMap":"17617719664",
-            "ColorMapContent":"17617719650",
-            "MetalnessMapContent":"17617719565",
-            "NormalMapContent":"17617719651",
-            "RoughnessMapContent":"17617719664"
+            "Colormap":"17617719650",
+            "Metalnessmap":"17617719565",
+            "Normalmap":"17617719651",
+            "Roughnessmap":"17617719664",
+            "Colormapcontent":"17617719650",
+            "Metalnessmapcontent":"17617719565",
+            "Normalmapcontent":"17617719651",
+            "Roughnessmapcontent":"17617719664"
       },
           "Vigor":{
-            "ColorMap":"17591803719",
-            "MetalnessMap":"17591803633",
-            "NormalMap":"17591803707",
-            "RoughnessMap":"17591803674",
-            "ColorMapContent":"17591803719",
-            "MetalnessMapContent":"17591803633",
-            "NormalMapContent":"17591803707",
-            "RoughnessMapContent":"17591803674"
+            "Colormap":"17591803719",
+            "Metalnessmap":"17591803633",
+            "Normalmap":"17591803707",
+            "Roughnessmap":"17591803674",
+            "Colormapcontent":"17591803719",
+            "Metalnessmapcontent":"17591803633",
+            "Normalmapcontent":"17591803707",
+            "Roughnessmapcontent":"17591803674"
       },
-          "VirusMat":{
-            "ColorMap":"126640635125491",
-            "MetalnessMap":"83051954359391",
-            "NormalMap":"113077672044689",
-            "RoughnessMap":"85686403797574",
-            "ColorMapContent":"126640635125491",
-            "MetalnessMapContent":"83051954359391",
-            "NormalMapContent":"113077672044689",
-            "RoughnessMapContent":"85686403797574"
+          "Virusmat":{
+            "Colormap":"126640635125491",
+            "Metalnessmap":"83051954359391",
+            "Normalmap":"113077672044689",
+            "Roughnessmap":"85686403797574",
+            "Colormapcontent":"126640635125491",
+            "Metalnessmapcontent":"83051954359391",
+            "Normalmapcontent":"113077672044689",
+            "Roughnessmapcontent":"85686403797574"
       },
           "Voltaic":{
-            "ColorMap":"96673615324465",
-            "MetalnessMap":"105227164588018",
-            "NormalMap":"96200800471689",
-            "RoughnessMap":"90445321183477",
-            "ColorMapContent":"96673615324465",
-            "MetalnessMapContent":"105227164588018",
-            "NormalMapContent":"96200800471689",
-            "RoughnessMapContent":"90445321183477"
+            "Colormap":"96673615324465",
+            "Metalnessmap":"105227164588018",
+            "Normalmap":"96200800471689",
+            "Roughnessmap":"90445321183477",
+            "Colormapcontent":"96673615324465",
+            "Metalnessmapcontent":"105227164588018",
+            "Normalmapcontent":"96200800471689",
+            "Roughnessmapcontent":"90445321183477"
       },
           "Watermelon Green":{
-            "ColorMap":"18655112917",
-            "MetalnessMap":"18655112715",
-            "NormalMap":"18655112895",
-            "RoughnessMap":"18655112799",
-            "ColorMapContent":"18655112917",
-            "MetalnessMapContent":"18655112715",
-            "NormalMapContent":"18655112895",
-            "RoughnessMapContent":"18655112799"
+            "Colormap":"18655112917",
+            "Metalnessmap":"18655112715",
+            "Normalmap":"18655112895",
+            "Roughnessmap":"18655112799",
+            "Colormapcontent":"18655112917",
+            "Metalnessmapcontent":"18655112715",
+            "Normalmapcontent":"18655112895",
+            "Roughnessmapcontent":"18655112799"
       },
           "Watermelon Red":{
-            "ColorMap":"18655342160",
-            "MetalnessMap":"18655342057",
-            "NormalMap":"18655342257",
-            "RoughnessMap":"18655342124",
-            "ColorMapContent":"18655342160",
-            "MetalnessMapContent":"18655342057",
-            "NormalMapContent":"18655342257",
-            "RoughnessMapContent":"18655342124"
+            "Colormap":"18655342160",
+            "Metalnessmap":"18655342057",
+            "Normalmap":"18655342257",
+            "Roughnessmap":"18655342124",
+            "Colormapcontent":"18655342160",
+            "Metalnessmapcontent":"18655342057",
+            "Normalmapcontent":"18655342257",
+            "Roughnessmapcontent":"18655342124"
       },
           "Wealth":{
-            "ColorMap":"17582760558",
-            "MetalnessMap":"17582760513",
-            "NormalMap":"17582760561",
-            "RoughnessMap":"17582760549",
-            "ColorMapContent":"17582760558",
-            "MetalnessMapContent":"17582760513",
-            "NormalMapContent":"17582760561",
-            "RoughnessMapContent":"17582760549"
+            "Colormap":"17582760558",
+            "Metalnessmap":"17582760513",
+            "Normalmap":"17582760561",
+            "Roughnessmap":"17582760549",
+            "Colormapcontent":"17582760558",
+            "Metalnessmapcontent":"17582760513",
+            "Normalmapcontent":"17582760561",
+            "Roughnessmapcontent":"17582760549"
       },
           "Webbed":{
-            "ColorMap":"17582188105",
-            "MetalnessMap":"17582187994",
-            "NormalMap":"17582188125",
-            "RoughnessMap":"17582188081",
-            "ColorMapContent":"17582188105",
-            "MetalnessMapContent":"17582187994",
-            "NormalMapContent":"17582188125",
-            "RoughnessMapContent":"17582188081"
+            "Colormap":"17582188105",
+            "Metalnessmap":"17582187994",
+            "Normalmap":"17582188125",
+            "Roughnessmap":"17582188081",
+            "Colormapcontent":"17582188105",
+            "Metalnessmapcontent":"17582187994",
+            "Normalmapcontent":"17582188125",
+            "Roughnessmapcontent":"17582188081"
       },
           "Werewolf Fur":{
-            "ColorMap":"124646054208622",
-            "MetalnessMap":"",
-            "NormalMap":"99198483820106",
-            "RoughnessMap":"",
-            "ColorMapContent":"124646054208622",
-            "MetalnessMapContent":"",
-            "NormalMapContent":"99198483820106",
-            "RoughnessMapContent":""
+            "Colormap":"124646054208622",
+            "Metalnessmap":"",
+            "Normalmap":"99198483820106",
+            "Roughnessmap":"",
+            "Colormapcontent":"124646054208622",
+            "Metalnessmapcontent":"",
+            "Normalmapcontent":"99198483820106",
+            "Roughnessmapcontent":""
       },
           "Wooly1":{
-            "ColorMap":"",
-            "MetalnessMap":"100746634314832",
-            "NormalMap":"",
-            "RoughnessMap":"128912834378921",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"100746634314832",
-            "NormalMapContent":"",
-            "RoughnessMapContent":"128912834378921"
+            "Colormap":"",
+            "Metalnessmap":"100746634314832",
+            "Normalmap":"",
+            "Roughnessmap":"128912834378921",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"100746634314832",
+            "Normalmapcontent":"",
+            "Roughnessmapcontent":"128912834378921"
       },
-          "WrappingPaper":{
-            "ColorMap":"70369684461131",
-            "MetalnessMap":"125298060223774",
-            "NormalMap":"126665103448625",
-            "RoughnessMap":"137381161016120",
-            "ColorMapContent":"70369684461131",
-            "MetalnessMapContent":"125298060223774",
-            "NormalMapContent":"126665103448625",
-            "RoughnessMapContent":"137381161016120"
+          "Wrappingpaper":{
+            "Colormap":"70369684461131",
+            "Metalnessmap":"125298060223774",
+            "Normalmap":"126665103448625",
+            "Roughnessmap":"137381161016120",
+            "Colormapcontent":"70369684461131",
+            "Metalnessmapcontent":"125298060223774",
+            "Normalmapcontent":"126665103448625",
+            "Roughnessmapcontent":"137381161016120"
       },
-          "WrappingPaper_01a":{
-            "ColorMap":"70369684461131",
-            "MetalnessMap":"125298060223774",
-            "NormalMap":"72992597201224",
-            "RoughnessMap":"137381161016120",
-            "ColorMapContent":"70369684461131",
-            "MetalnessMapContent":"125298060223774",
-            "NormalMapContent":"72992597201224",
-            "RoughnessMapContent":"137381161016120"
+          "Wrappingpaper_01a":{
+            "Colormap":"70369684461131",
+            "Metalnessmap":"125298060223774",
+            "Normalmap":"72992597201224",
+            "Roughnessmap":"137381161016120",
+            "Colormapcontent":"70369684461131",
+            "Metalnessmapcontent":"125298060223774",
+            "Normalmapcontent":"72992597201224",
+            "Roughnessmapcontent":"137381161016120"
       },
-          "WrappingPearlescent":{
-            "ColorMap":"",
-            "MetalnessMap":"96030697377248",
-            "NormalMap":"87001153819",
-            "RoughnessMap":"92853442776873",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"96030697377248",
-            "NormalMapContent":"87001153819521",
-            "RoughnessMapContent":"92853442776873"
+          "Wrappingpearlescent":{
+            "Colormap":"",
+            "Metalnessmap":"96030697377248",
+            "Normalmap":"87001153819",
+            "Roughnessmap":"92853442776873",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"96030697377248",
+            "Normalmapcontent":"87001153819521",
+            "Roughnessmapcontent":"92853442776873"
       },
-          "WrappingPearlescent2":{
-            "ColorMap":"",
-            "MetalnessMap":"96030697377248",
-            "NormalMap":"87001153819521",
-            "RoughnessMap":"",
-            "ColorMapContent":"",
-            "MetalnessMapContent":"96030697377248",
-            "NormalMapContent":"87001153819521",
-            "RoughnessMapContent":""
+          "Wrappingpearlescent2":{
+            "Colormap":"",
+            "Metalnessmap":"96030697377248",
+            "Normalmap":"87001153819521",
+            "Roughnessmap":"",
+            "Colormapcontent":"",
+            "Metalnessmapcontent":"96030697377248",
+            "Normalmapcontent":"87001153819521",
+            "Roughnessmapcontent":""
       },
           "Yin Yang":{
-            "ColorMap":"18655892192",
-            "MetalnessMap":"18655892015",
-            "NormalMap":"18655892175",
-            "RoughnessMap":"18655892089",
-            "ColorMapContent":"18655892192",
-            "MetalnessMapContent":"18655892015",
-            "NormalMapContent":"18655892175",
-            "RoughnessMapContent":"18655892089"
+            "Colormap":"18655892192",
+            "Metalnessmap":"18655892015",
+            "Normalmap":"18655892175",
+            "Roughnessmap":"18655892089",
+            "Colormapcontent":"18655892192",
+            "Metalnessmapcontent":"18655892015",
+            "Normalmapcontent":"18655892175",
+            "Roughnessmapcontent":"18655892089"
       }
     }
   },
@@ -2699,7 +2699,7 @@
         "Tip":"103918211053795"
         },
         "Body":{
-        "Dial and Bolts":"103428289294174",
+        "Dial And Bolts":"103428289294174",
         "Main Body":"91182997679206",
         "Scope Lens":"131412183341416",
         "Scope":"116870937608189",
@@ -2710,7 +2710,7 @@
         "Body": {
         "Upper Body":"118181033771474",
         "Main Body":"134788656325254",
-        "Glowing bits":"101474031641147",
+        "Glowing Bits":"101474031641147",
         "Energy":"104387978393026"
       },
         "Wrapstone":"89130073475458"
@@ -2729,22 +2729,22 @@
         "Pt4":"17229924027",
         "Pt5":"17229924229"
       },
-      "Grenade luancher": {
+      "Grenade Launcher": {
         "Body":{
         "Body":"17190583725",
         "Bolts":"17190583625",
-        "Handle/Stock":"17190583848"
+        "Handle/stock":"17190583848"
         },
         "Chamber":"17190584203",
         "Front":{
         "Body":"17190583497",
-        "Barrel+Other":"17190583311",
+        "Barrel+other":"17190583311",
         "Bolts":"17190584351"
         },
-        "HE Shell":"17190851070,17190851227",
+        "He Shell":"17190851070,17190851227",
         "Speed Loader":"17190850897"
       },
-      "GunBlade": {
+      "Gunblade": {
         "Body":"90740813539453",
         "Blade":"117886265537257",
         "Irons":"75943788190296",
@@ -2773,12 +2773,12 @@
         "Main Body":"16538412587"
         }
       },
-      "PermaFrost": {
+      "Permafrost": {
         "Gauge Bg":"118539663828527",
         "Gauge Hand":"76148422441785",
         "Body": {
-        "Gauge and Pipes":"74261511836135",
-        "Vent and Bolts":"81714027524108",
+        "Gauge And Pipes":"74261511836135",
+        "Vent And Bolts":"81714027524108",
         "Other":"90442068177834",
         "Main Body":"96854747258539"
         },
@@ -2788,7 +2788,7 @@
         "Glass":"105661389666794"
         }
       },
-      "Rpg": {
+      "RPG": {
         "Rocket": {
         "Fuse":"14782313490",
         "Head":"14782313662"
@@ -2816,8 +2816,8 @@
       "Exo Gun": {
         "Body Main":"17249768747",
         "Glowly Bits":"17249769058",
-        "Body pt2":"17249768836",
-        "Rings and Irons":"17249769159",
+        "Body Pt2":"17249768836",
+        "Rings And Irons":"17249769159",
         "Bits":"17249768962"
       },
       "Flare": {
@@ -2841,7 +2841,7 @@
         "Bolts":"12613248825"
         }
       },
-      "Revlover": {
+      "Revolver": {
         "Body":{
         "Handle And Irons":"14002831630",
         "Bolts":"14002774305",
@@ -2890,7 +2890,7 @@
         "Body":"118542863751464",
         "Bolts":"74185793936812"
                },
-        "WarpStone":"132182294847265",
+        "Warpstone":"132182294847265",
         "Glow":"120163955932611,139282495633039,14204497474,94245875007793,16339546760,17287720944,11162874653,11162923273,100781467017547"
       }
     },
@@ -2905,12 +2905,12 @@
         "Blade":"13532093742",
         "Handle":"13532093568",
         "Body":"13532093356",
-        "Vents and Bolts":"13532094406",
+        "Vents And Bolts":"13532094406",
         "Teeth":"13642660758,18199162011"
         },
         "Cord":"13532094210"
       },
-      "katana": {
+      "Katana": {
         "Blade":"13903792316",
         "Bolts":"13760790106",
         "Handle":"13760790008"
@@ -2920,18 +2920,18 @@
         "Blade":"12482022363",
         "Handle":"12482022430"
       },
-      "Mual": {
+      "Maul": {
         "Hammer":"89939522788793",
         "Bits":"79631712600906",
         "Handle":"121806564166408"
       },
-      "Roit Shield": {
+      "Riot Shield": {
         "Body":"116193367281665",
         "Edge And Handles":"105366735052924",
         "Glass":"110079517522085",
         "Bolts":"82949430589970"
       },
-      "Sythce": {
+      "Scythe": {
         "Handle":"13753170814",
         "Blade":"13753170893"
       },
@@ -2954,7 +2954,7 @@
         "Body":"18370628715",
         "Mag":"18370628431"
       },
-      "Gernade": {
+      "Grenade": {
         "Body":"14246425872",
         "Bolts":"14246425725",
         "Spoon":"14246425599",
@@ -2962,18 +2962,18 @@
         "Pin":"17631605892,14246426125"
       },
       "Jumppad": {
-        "Arrows and Corners":"17835823024",
+        "Arrows And Corners":"17835823024",
         "Blue Part":"17835823211",
         "Frame":"17835823121"
       },
       "Medkit": {
-        "MedkitTop":{
+        "Medkit Top":{
         "Red Stripe":"13398409557",
         "Bolts":"13398409605",
         "Seal":"13398409659",
         "Lid":"13398409399"
         },
-        "MedkitBottom":{
+        "Medkit Bottom":{
         "Red Stripe":"13398409487",
         "Bolts":"13398409326",
         "Seal":"13398409181",
@@ -2983,7 +2983,7 @@
         "On Arm":"13398367408,13398367308",
         "Roll":"13398351358,13398351226"
         },
-        "Bandaid":{
+        "Band Aid":{
         "":"16823033923",
         "":"16823034303",
         "":"16823034496",
@@ -2999,7 +2999,7 @@
       },
       "Smoke": {
         "Body":"15002137189",
-        "Top/Fuse":"15002137001",
+        "Top/fuse":"15002137001",
         "Stripes":"15002136864",
         "Pin":"15002137331",
         "Spoon":"15002136701",
@@ -3033,34 +3033,34 @@
       }
     }
   },
-  "gun sounds": {
-    "energy rifle": "73644074370077",
-    "energy pistols": "120386834342865",
-    "exogun": [
+  "Gun Sounds": {
+    "Energy Rifle": "73644074370077",
+    "Energy Pistols": "120386834342865",
+    "Exogun": [
       "17266070755",
       "17245106793"
     ],
-    "granade launcher": "17274368912",
-    "slingshot": "911852163",
-    "paintball gun": "11900833",
-    "ar": "13087362838",
-    "bow": [
+    "Grenade Launcher": "17274368912",
+    "Slingshot": "911852163",
+    "Paintball Gun": "11900833",
+    "Ar": "13087362838",
+    "Bow": [
       "13677205703",
       "13677205578",
       "13677205647"
     ],
-    "pistol": "13110197302",
-    "revolver": [
+    "Pistol": "13110197302",
+    "Revolver": [
       "14417089307",
       "14417089152",
       "14417089046",
       "14417088974"
     ],
-    "shorty": "13479562219",
-    "crossbow": "82715240396507",
-    "gunblade": "96886470957330",
-    "spray": "100354903585817",
-    "uzi": [
+    "Shorty": "13479562219",
+    "Crossbow": "82715240396507",
+    "Gunblade": "96886470957330",
+    "Spray": "100354903585817",
+    "Uzi": [
       "16526185100",
       "16526184479",
       "16526184730",
@@ -3069,7 +3069,7 @@
       "16397424423",
       "16526184265"
     ],
-    "sniper": [
+    "Sniper": [
       "13270206222",
       "13270206087"
     ]
@@ -3078,8 +3078,8 @@
           "Aiming Vignette":"14824249410",
           "Speed Lines":"16469373111,16469372946",
           "Scope Glare":{
-          "ScopeGlare1":"12994687832",
-          "ScopeGlare2":"12994687832"
+          "Scopeglare1":"12994687832",
+          "Scopeglare2":"12994687832"
     },
           "Damage Indicator":"13853836511",
           "Lobby Music":"82135261819112",
