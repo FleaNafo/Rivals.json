@@ -1,12 +1,93 @@
 {
   "Skyboxes": {
-    "Bk": "14147881792",
-    "Dn": "14147882149",
-    "Ft": "14147882761",
-    "Lf": "14147883091",
-    "Rt": "14147882405",
-    "Up": "14147881297"
-    
+	  "Battle Grounds":{
+		  "SkyboxBk":"14147881792",
+		  "SkyboxDn":"14147882149",
+		  "SkyboxFt":"14147882761",
+		  "SkyboxLf":"14147883091",
+		  "SkyboxRt":"14147882405",
+		  "SkyboxUp":"14147881297"
+	  },
+	  "Graveyard":{
+		  "SkyboxBk":"135908632589654",
+		  "SkyboxDn":"103020541883227",
+		  "SkyboxFt":"135908632589654",
+		  "SkyboxLf":"135908632589654",
+		  "SkyboxRt":"135908632589654",
+		  "SkyboxUp":"72960281658487"
+	  },
+	  "Graveyard Sudden Death":{
+		  "SkyboxBk":"84214501374682",
+		  "SkyboxDn":"89972436184102",
+		  "SkyboxFt":"84214501374682",
+		  "SkyboxLf":"84214501374682",
+		  "SkyboxRt":"84214501374682",
+		  "SkyboxUp":"92138082970751"
+	  },
+	  "Station":{
+		  "SkyboxBk":"2108482005",
+		  "SkyboxDn":"2108545280",
+		  "SkyboxFt":"2108482231",
+		  "SkyboxLf":"2108482395",
+		  "SkyboxRt":"2108482542",
+		  "SkyboxUp":"2108482676"
+	  },
+	  "Default":{
+		  "SkyboxBk":"14147881792",
+		  "SkyboxDn":"14147882149",
+		  "SkyboxFt":"14147882761",
+		  "SkyboxLf":"14147883091",
+		  "SkyboxRt":"14147882405",
+		  "SkyboxUp":"14147881297"
+	  },
+	  "Dimension":{
+		  "SkyboxBk":"10196550937",
+		  "SkyboxDn":"10196550667",
+		  "SkyboxFt":"10196550367",
+		  "SkyboxLf":"10196550128",
+		  "SkyboxRt":"10196549902",
+		  "SkyboxUp":"10196567794"
+	  },
+	  "Docks":{
+		  "SkyboxBk":"14147881792",
+		  "SkyboxDn":"14147882149",
+		  "SkyboxFt":"14147882761",
+		  "SkyboxLf":"14147883091",
+		  "SkyboxRt":"14147882405",
+		  "SkyboxUp":"14147881297"
+      },
+	  "Iceberg":{
+		  "SkyboxBk":"14147881792",
+		  "SkyboxDn":"14147882149",
+		  "SkyboxFt":"14147882761",
+		  "SkyboxLf":"14147883091",
+		  "SkyboxRt":"14147882405",
+		  "SkyboxUp":"14147881297"
+	  },
+	  "Village":{
+		  "SkyboxBk":"14147881792",
+		  "SkyboxDn":"14147882149",
+		  "SkyboxFt":"14147882761",
+		  "SkyboxLf":"14147883091",
+		  "SkyboxRt":"14147882405",
+		  "SkyboxUp":"14147881297"
+	  },
+	  "Westown":{
+		  "SkyboxBk":"12261809766",
+		  "SkyboxDn":"12261813110",
+		  "SkyboxFt":"12261809766",
+		  "SkyboxLf":"12261809766",
+		  "SkyboxRt":"12261809766",
+		  "SkyboxUp":"12261813678"
+	  },
+	  "Zombie Tower":{
+		  "SkyboxBk":"84214501374682",
+		  "SkyboxDn":"89972436184102",
+		  "SkyboxFt":"84214501374682",
+		  "SkyboxLf":"84214501374682",
+		  "SkyboxRt":"84214501374682",
+		  "SkyboxUp":"92138082970751"
+	  }
   },
   "Hit / Kill Sounds": {
     "Body Hit": "13110130082",
