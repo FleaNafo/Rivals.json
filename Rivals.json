@@ -6290,7 +6290,17 @@
           "Scopeglare2":"12994687832"
     },
           "Damage Indicator":"13853836511",
-          "Lobby Music":"82135261819112",
+          "Lobby/Game Mode Music":{
+			  "Default Lobby":"17697682466",
+			  "Default Lobby Muffled":"17733314783",
+			  "Spooky":"100081814360953",
+			  "Spooky Muffled":"86062306109271",
+			  "Festive":"82135261819112",
+			  "Festive Muffled":"96771526359691",
+			  "Obby":"91718252417630",
+			  "Spleef":"91718252417630",
+			  "Zombie Tower":"119694504935889"
+		  },
           "Round Win":"16810041280",
           "Round Loss":"16810321565",
           "Eliminated":"17016581922",
